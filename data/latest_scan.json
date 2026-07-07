@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T11:23:51",
+  "generated_at": "2026-07-07T18:37:14",
   "date_start": "2026-07-05",
   "date_end": "2026-07-07",
   "company_count": 34,
-  "total_disclosures": 12,
-  "total_findings": 0,
-  "new_findings": 0,
+  "total_disclosures": 24,
+  "total_findings": 1,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -225,7 +225,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -311,14 +311,29 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 4.8,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 3,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "PASEU",
+          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+          "tarih": "07.07.2026 18:26",
+          "kategori": "Piyasa Tedbirleri",
+          "siddet": "DÜŞÜK",
+          "agirlik": 2,
+          "baslik": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+          "ozet": "Pay Piyasasında Volatilite Bazlı Tedbir Sistemi",
+          "gerekce": "'volatilite bazli tedbir' ifadesi (başlık/özet) — BIST/SPK piyasa duyurusu",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1627327",
+          "bildirim_no": 1627327,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -407,7 +422,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -420,7 +435,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -433,7 +448,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -446,7 +461,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -459,7 +474,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
