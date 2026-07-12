@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-11T21:13:04",
-  "date_start": "2026-07-09",
-  "date_end": "2026-07-11",
+  "generated_at": "2026-07-12T07:18:20",
+  "date_start": "2026-07-10",
+  "date_end": "2026-07-12",
   "company_count": 34,
-  "total_disclosures": 18,
+  "total_disclosures": 12,
   "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
@@ -82,7 +82,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -225,7 +225,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -355,7 +355,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -368,7 +368,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -433,7 +433,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
