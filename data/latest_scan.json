@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T10:43:40",
+  "generated_at": "2026-07-13T18:13:01",
   "date_start": "2026-07-11",
   "date_end": "2026-07-13",
   "company_count": 34,
-  "total_disclosures": 3,
-  "total_findings": 0,
-  "new_findings": 0,
+  "total_disclosures": 8,
+  "total_findings": 1,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -43,7 +43,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -56,7 +56,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -290,7 +290,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -316,7 +316,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -428,14 +428,29 @@
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "VESTL",
+          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+          "tarih": "13.07.2026 20:00",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Moody's Ratings Kredi Derecelendirme Notu",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (negatif, default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1632934",
+          "bildirim_no": 1632934,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
