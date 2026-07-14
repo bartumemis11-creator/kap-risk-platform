@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T06:24:25",
+  "generated_at": "2026-07-14T11:51:10",
   "date_start": "2026-07-12",
   "date_end": "2026-07-14",
   "company_count": 34,
-  "total_disclosures": 10,
-  "total_findings": 1,
-  "new_findings": 0,
+  "total_disclosures": 12,
+  "total_findings": 2,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -428,14 +428,28 @@
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 21.6,
+      "skor": 29.2,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "VESTL",
+          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+          "tarih": "14.07.2026 12:21",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "Moody's Ratings Kredi Derecelendirme Notu",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (negatif, default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1633129",
+          "bildirim_no": 1633129,
+          "yeni": true
+        },
         {
           "hisse": "VESTL",
           "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -461,7 +475,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
