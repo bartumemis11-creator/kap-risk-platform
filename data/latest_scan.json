@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T08:30:06",
+  "generated_at": "2026-07-20T15:33:10",
   "date_start": "2026-07-18",
   "date_end": "2026-07-20",
   "company_count": 34,
-  "total_disclosures": 2,
+  "total_disclosures": 11,
   "total_findings": 1,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -58,7 +58,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1634792",
           "bildirim_no": 1634792,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -162,7 +162,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -175,7 +175,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -201,7 +201,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -396,7 +396,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -461,7 +461,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
