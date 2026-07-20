@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T21:34:12",
-  "date_start": "2026-07-17",
-  "date_end": "2026-07-19",
+  "generated_at": "2026-07-20T08:30:06",
+  "date_start": "2026-07-18",
+  "date_end": "2026-07-20",
   "company_count": 34,
-  "total_disclosures": 4,
-  "total_findings": 0,
-  "new_findings": 0,
+  "total_disclosures": 2,
+  "total_findings": 1,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -38,14 +38,29 @@
     {
       "hisse": "AKSA",
       "sirket": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "AKSA",
+          "sirket": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
+          "tarih": "20.07.2026 10:35",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+          "ozet": "Kurumsal Yönetim Derecelendirme Not Bildirimi",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1634792",
+          "bildirim_no": 1634792,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -212,7 +227,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -381,7 +396,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -459,7 +474,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
