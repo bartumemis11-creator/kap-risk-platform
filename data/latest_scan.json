@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T09:45:30",
+  "generated_at": "2026-07-21T15:58:09",
   "date_start": "2026-07-19",
   "date_end": "2026-07-21",
   "company_count": 34,
-  "total_disclosures": 13,
-  "total_findings": 1,
-  "new_findings": 0,
+  "total_disclosures": 18,
+  "total_findings": 2,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -43,7 +43,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -162,7 +162,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -352,14 +352,29 @@
     {
       "hisse": "PSGYO",
       "sirket": "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 7.2,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "PSGYO",
+          "sirket": "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+          "tarih": "21.07.2026 16:35",
+          "kategori": "Varlık Satışı / Nakit Yaratma",
+          "siddet": "DÜŞÜK",
+          "agirlik": 3,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Ankara Gölbaşı Taşpınar Sözleşme İmzalanması",
+          "gerekce": "'arsa satisi' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1635406",
+          "bildirim_no": 1635406,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -461,7 +476,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
