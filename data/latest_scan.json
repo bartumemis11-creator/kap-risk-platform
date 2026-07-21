@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-21T15:58:09",
+  "generated_at": "2026-07-21T20:40:51",
   "date_start": "2026-07-19",
   "date_end": "2026-07-21",
   "company_count": 34,
-  "total_disclosures": 18,
-  "total_findings": 2,
+  "total_disclosures": 20,
+  "total_findings": 3,
   "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
@@ -162,7 +162,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -352,14 +352,28 @@
     {
       "hisse": "PSGYO",
       "sirket": "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-      "skor": 7.2,
+      "skor": 9.7,
       "not": "B",
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "PSGYO",
+          "sirket": "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+          "tarih": "21.07.2026 19:54",
+          "kategori": "Varlık Satışı / Nakit Yaratma",
+          "siddet": "DÜŞÜK",
+          "agirlik": 3,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Ankara Gölbaşı Taşpınar Sözleşme İmzalanması ",
+          "gerekce": "'arsa satisi' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1635527",
+          "bildirim_no": 1635527,
+          "yeni": true
+        },
         {
           "hisse": "PSGYO",
           "sirket": "PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
@@ -372,7 +386,7 @@
           "gerekce": "'arsa satisi' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1635406",
           "bildirim_no": 1635406,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
