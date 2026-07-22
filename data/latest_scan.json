@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T09:42:30",
+  "generated_at": "2026-07-22T15:54:50",
   "date_start": "2026-07-20",
   "date_end": "2026-07-22",
   "company_count": 34,
-  "total_disclosures": 22,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 30,
+  "total_findings": 4,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -498,14 +498,29 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 2,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 10,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "22.07.2026 18:43",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "Moody's Ratings Kredi Derecelendirme Notu",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (negatif, default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1635845",
+          "bildirim_no": 1635845,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
