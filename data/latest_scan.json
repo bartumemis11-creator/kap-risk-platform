@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T20:40:51",
-  "date_start": "2026-07-19",
-  "date_end": "2026-07-21",
+  "generated_at": "2026-07-22T00:10:17",
+  "date_start": "2026-07-20",
+  "date_end": "2026-07-22",
   "company_count": 34,
   "total_disclosures": 20,
   "total_findings": 3,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -372,7 +372,7 @@
           "gerekce": "'arsa satisi' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1635527",
           "bildirim_no": 1635527,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "PSGYO",
