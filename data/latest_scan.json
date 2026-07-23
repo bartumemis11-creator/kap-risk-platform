@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T09:16:21",
+  "generated_at": "2026-07-23T16:05:16",
   "date_start": "2026-07-21",
   "date_end": "2026-07-23",
   "company_count": 34,
-  "total_disclosures": 21,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 29,
+  "total_findings": 4,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -56,7 +56,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -147,7 +147,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -168,14 +168,29 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 9.6,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "FENER",
+          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+          "tarih": "23.07.2026 13:52",
+          "kategori": "Yönetim / Genel Kurul Riski",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Yönetim Kurulu Üye Değişiklikleri Hk",
+          "gerekce": "'istifa' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1636003",
+          "bildirim_no": 1636003,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -277,7 +292,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -488,7 +503,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 11,
+      "taranan": 13,
       "veri_hatasi": 0,
       "findings": [
         {
