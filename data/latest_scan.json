@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T00:15:47",
+  "generated_at": "2026-07-24T09:31:01",
   "date_start": "2026-07-22",
   "date_end": "2026-07-24",
   "company_count": 34,
-  "total_disclosures": 23,
-  "total_findings": 2,
-  "new_findings": 0,
+  "total_disclosures": 25,
+  "total_findings": 3,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -142,14 +142,29 @@
     {
       "hisse": "EREGL",
       "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "EREGL",
+          "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+          "tarih": "24.07.2026 09:30",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+          "ozet": "Kurumsal Yönetim İlkelerine Uyum Derecelendirme Raporu ve Notu",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1636318",
+          "bildirim_no": 1636318,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -357,7 +372,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
