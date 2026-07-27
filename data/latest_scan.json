@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-26T23:29:50",
-  "date_start": "2026-07-24",
-  "date_end": "2026-07-26",
+  "generated_at": "2026-07-27T01:12:44",
+  "date_start": "2026-07-25",
+  "date_end": "2026-07-27",
   "company_count": 34,
-  "total_disclosures": 12,
-  "total_findings": 1,
+  "total_disclosures": 0,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -142,29 +142,14 @@
     {
       "hisse": "EREGL",
       "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-      "skor": 21.6,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 1,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "EREGL",
-          "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-          "tarih": "24.07.2026 09:30",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
-          "ozet": "Kurumsal Yönetim İlkelerine Uyum Derecelendirme Raporu ve Notu",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1636318",
-          "bildirim_no": 1636318,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -292,7 +277,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -357,7 +342,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 8,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -461,7 +446,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
