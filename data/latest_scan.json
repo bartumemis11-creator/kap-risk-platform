@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T12:21:54",
+  "generated_at": "2026-07-28T15:00:06",
   "date_start": "2026-07-26",
   "date_end": "2026-07-28",
   "company_count": 35,
-  "total_disclosures": 12,
-  "total_findings": 1,
-  "new_findings": 1,
+  "total_disclosures": 15,
+  "total_findings": 3,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -206,14 +206,28 @@
     {
       "hisse": "IHLAS",
       "sirket": "İHLAS HOLDİNG A.Ş.",
-      "skor": 21.6,
+      "skor": 29.2,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "IHLAS",
+          "sirket": "İHLAS HOLDİNG A.Ş.",
+          "tarih": "28.07.2026 15:29",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+          "ozet": "Kurumsal Yönetim İlkelerine Uyum Derecelendirme Notu Hakkında",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1637693",
+          "bildirim_no": 1637693,
+          "yeni": true
+        },
         {
           "hisse": "IHLAS",
           "sirket": "İHLAS HOLDİNG A.Ş.",
@@ -226,7 +240,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1637654",
           "bildirim_no": 1637654,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -447,7 +461,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -481,14 +495,29 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 14.4,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "28.07.2026 16:26",
+          "kategori": "Regülatör Cezası / Yaptırım",
+          "siddet": "ORTA",
+          "agirlik": 6,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Depolamalı Rüzgar Enerji Santralleri için Önlisans Süre Uzatımı",
+          "gerekce": "'epdk' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1637734",
+          "bildirim_no": 1637734,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
