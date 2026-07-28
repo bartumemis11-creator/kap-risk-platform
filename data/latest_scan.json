@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28T04:09:51",
+  "generated_at": "2026-07-28T07:14:06",
   "date_start": "2026-07-26",
   "date_end": "2026-07-28",
-  "company_count": 34,
-  "total_disclosures": 8,
+  "company_count": 35,
+  "total_disclosures": 9,
   "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
@@ -14,7 +14,6 @@
     "TAŞYAPI",
     "CCN",
     "CEVAHİR",
-    "ALBAYRAK",
     "BG MADEN",
     "ARCA",
     "MEDİPOLİTAN",
@@ -51,6 +50,19 @@
     {
       "hisse": "AKSEN",
       "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
+      "veri_hatasi": 0,
+      "findings": [],
+      "improvements": []
+    },
+    {
+      "hisse": "ALBTN",
+      "sirket": "ALBAYRAK HAZIR BETON SANAYİ VE TİCARET A.Ş.",
       "skor": 0.0,
       "not": "A",
       "seviye": "TEMİZ",
@@ -459,7 +471,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
