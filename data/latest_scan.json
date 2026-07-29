@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T03:50:21",
+  "generated_at": "2026-07-29T06:31:29",
   "date_start": "2026-07-27",
   "date_end": "2026-07-29",
   "company_count": 35,
-  "total_disclosures": 15,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 18,
+  "total_findings": 4,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -448,7 +448,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -482,14 +482,29 @@
     {
       "hisse": "YKBNK",
       "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 2,
+      "skor": 9.6,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 3,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "YKBNK",
+          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+          "tarih": "29.07.2026 07:31",
+          "kategori": "Varlık Satışı / Nakit Yaratma",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Finansal Duran Varlık Satışı",
+          "ozet": "Yapı Kredi Portföy Yönetimi A.Ş. paylarının satışına ilişkin Pay Devir Sözleşmesi ve satış sonrası dönem için Dağıtım Sözleşmesi Protokolü İmzalanması",
+          "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1638052",
+          "bildirim_no": 1638052,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
