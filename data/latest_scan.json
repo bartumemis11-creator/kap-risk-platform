@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-30T15:32:11",
+  "generated_at": "2026-07-30T17:27:39",
   "date_start": "2026-07-28",
   "date_end": "2026-07-30",
   "company_count": 35,
-  "total_disclosures": 30,
-  "total_findings": 8,
+  "total_disclosures": 37,
+  "total_findings": 9,
   "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
@@ -331,7 +331,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -357,7 +357,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -554,14 +554,28 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 36.0,
+      "skor": 43.6,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "30.07.2026 18:51",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "Zorlu Enerji Elektrik Üretim AŞ Kredi Derecelendirme Notu Hakkında",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1639786",
+          "bildirim_no": 1639786,
+          "yeni": true
+        },
         {
           "hisse": "ZOREN",
           "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
@@ -574,7 +588,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1639745",
           "bildirim_no": 1639745,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "ZOREN",
