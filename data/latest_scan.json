@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T18:57:29",
+  "generated_at": "2026-07-30T20:16:42",
   "date_start": "2026-07-28",
   "date_end": "2026-07-30",
   "company_count": 35,
-  "total_disclosures": 37,
+  "total_disclosures": 38,
   "total_findings": 9,
   "new_findings": 0,
   "unmatched_groups": [
@@ -318,7 +318,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
