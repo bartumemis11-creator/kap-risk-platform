@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T11:27:09",
+  "generated_at": "2026-08-03T13:59:10",
   "date_start": "2026-08-01",
   "date_end": "2026-08-03",
   "company_count": 35,
-  "total_disclosures": 3,
+  "total_disclosures": 6,
   "total_findings": 1,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -289,7 +289,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -367,7 +367,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -473,7 +473,7 @@
           "gerekce": "'iflas' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1641986",
           "bildirim_no": 1641986,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -486,7 +486,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
