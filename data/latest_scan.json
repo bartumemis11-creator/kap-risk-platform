@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T16:42:57",
+  "generated_at": "2026-08-05T18:22:01",
   "date_start": "2026-08-03",
   "date_end": "2026-08-05",
   "company_count": 35,
   "total_disclosures": 42,
   "total_findings": 2,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -343,7 +343,7 @@
           "gerekce": "'olagan disi fiyat' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1643815",
           "bildirim_no": 1643815,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
