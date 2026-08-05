@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T14:55:57",
+  "generated_at": "2026-08-05T16:42:57",
   "date_start": "2026-08-03",
   "date_end": "2026-08-05",
   "company_count": 35,
-  "total_disclosures": 39,
-  "total_findings": 1,
-  "new_findings": 0,
+  "total_disclosures": 42,
+  "total_findings": 2,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -315,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -323,14 +323,29 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 7.2,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "PASEU",
+          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+          "tarih": "05.08.2026 18:17",
+          "kategori": "Piyasa Tedbirleri",
+          "siddet": "DÜŞÜK",
+          "agirlik": 3,
+          "baslik": "Olağan Dışı Fiyat ve Miktar Hareketleri",
+          "ozet": "Olağan Dışı Fiyat ve Miktar Hareketlerine İlişkin Açıklama Hk.",
+          "gerekce": "'olagan disi fiyat' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1643815",
+          "bildirim_no": 1643815,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -393,7 +408,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
