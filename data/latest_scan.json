@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-07T23:33:52",
-  "date_start": "2026-08-05",
-  "date_end": "2026-08-07",
+  "generated_at": "2026-08-08T01:30:28",
+  "date_start": "2026-08-06",
+  "date_end": "2026-08-08",
   "company_count": 35,
-  "total_disclosures": 36,
-  "total_findings": 2,
+  "total_disclosures": 22,
+  "total_findings": 1,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -315,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -323,29 +323,14 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 7.2,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "PASEU",
-          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-          "tarih": "05.08.2026 18:17",
-          "kategori": "Piyasa Tedbirleri",
-          "siddet": "DÜŞÜK",
-          "agirlik": 3,
-          "baslik": "Olağan Dışı Fiyat ve Miktar Hareketleri",
-          "ozet": "Olağan Dışı Fiyat ve Miktar Hareketlerine İlişkin Açıklama Hk.",
-          "gerekce": "'olagan disi fiyat' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1643815",
-          "bildirim_no": 1643815,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -382,7 +367,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -395,7 +380,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -408,7 +393,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -501,7 +486,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
