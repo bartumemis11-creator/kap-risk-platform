@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T16:00:03",
+  "generated_at": "2026-08-10T17:03:16",
   "date_start": "2026-08-08",
   "date_end": "2026-08-10",
   "company_count": 35,
-  "total_disclosures": 20,
-  "total_findings": 1,
-  "new_findings": 0,
+  "total_disclosures": 30,
+  "total_findings": 2,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -180,14 +180,28 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 16.8,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 1,
+      "skor": 33.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "FENER",
+          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+          "tarih": "10.08.2026 19:41",
+          "kategori": "Finansal Yeniden Yapılandırma",
+          "siddet": "YÜKSEK",
+          "agirlik": 7,
+          "baslik": "TTK'nın 376. Maddesi Kapsamında Yapılan İşlemler",
+          "ozet": "TTK'nın 376. Maddesi Kapsamında Açıklamamız",
+          "gerekce": "'ttk 376' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1647230",
+          "bildirim_no": 1647230,
+          "yeni": true
+        },
         {
           "hisse": "FENER",
           "sirket": "FENERBAHÇE FUTBOL A.Ş.",
@@ -239,7 +253,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -382,7 +396,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 7,
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
