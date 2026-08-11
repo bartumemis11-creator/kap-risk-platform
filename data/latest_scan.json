@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T01:42:16",
+  "generated_at": "2026-08-11T03:44:04",
   "date_start": "2026-08-09",
   "date_end": "2026-08-11",
   "company_count": 35,
   "total_disclosures": 48,
   "total_findings": 3,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -242,7 +242,7 @@
           "gerekce": "'ttk 376' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1647505",
           "bildirim_no": 1647505,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
