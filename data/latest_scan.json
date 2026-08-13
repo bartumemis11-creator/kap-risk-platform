@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-12T23:41:26",
-  "date_start": "2026-08-10",
-  "date_end": "2026-08-12",
+  "generated_at": "2026-08-13T01:55:51",
+  "date_start": "2026-08-11",
+  "date_end": "2026-08-13",
   "company_count": 35,
-  "total_disclosures": 69,
-  "total_findings": 3,
+  "total_disclosures": 27,
+  "total_findings": 1,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -55,7 +55,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 8,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -180,43 +180,14 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 33.6,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 9,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "FENER",
-          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-          "tarih": "10.08.2026 19:41",
-          "kategori": "Finansal Yeniden Yapılandırma",
-          "siddet": "YÜKSEK",
-          "agirlik": 7,
-          "baslik": "TTK'nın 376. Maddesi Kapsamında Yapılan İşlemler",
-          "ozet": "TTK'nın 376. Maddesi Kapsamında Açıklamamız",
-          "gerekce": "'ttk 376' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1647230",
-          "bildirim_no": 1647230,
-          "yeni": false
-        },
-        {
-          "hisse": "FENER",
-          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-          "tarih": "10.08.2026 16:49",
-          "kategori": "Denetçi Görüşü / Süreklilik Şüphesi",
-          "siddet": "YÜKSEK",
-          "agirlik": 7,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Bağımsız Yönetim Kurulu Üyesi Adayları İçin SPK Uygunluk Onayı Hakkında",
-          "gerekce": "'olumsuz gorus' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1646547",
-          "bildirim_no": 1646547,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -227,7 +198,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 8,
+      "taranan": 7,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -268,7 +239,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -307,7 +278,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -333,7 +304,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -411,7 +382,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 10,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -463,7 +434,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -476,7 +447,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
