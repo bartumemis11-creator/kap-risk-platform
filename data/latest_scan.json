@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T14:33:24",
+  "generated_at": "2026-08-19T15:30:51",
   "date_start": "2026-08-17",
   "date_end": "2026-08-19",
   "company_count": 35,
-  "total_disclosures": 22,
-  "total_findings": 0,
-  "new_findings": 0,
+  "total_disclosures": 26,
+  "total_findings": 1,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -63,14 +63,29 @@
     {
       "hisse": "ALBTN",
       "sirket": "ALBAYRAK HAZIR BETON SANAYİ VE TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "ALBTN",
+          "sirket": "ALBAYRAK HAZIR BETON SANAYİ VE TİCARET A.Ş.",
+          "tarih": "19.08.2026 18:15",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "KREDİ DERECELENDİRME BİLDİRİMİ",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1652791",
+          "bildirim_no": 1652791,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -341,7 +356,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
