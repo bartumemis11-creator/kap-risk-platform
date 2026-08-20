@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T15:33:43",
+  "generated_at": "2026-08-20T16:34:53",
   "date_start": "2026-08-18",
   "date_end": "2026-08-20",
   "company_count": 35,
   "total_disclosures": 49,
   "total_findings": 4,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -425,7 +425,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1653659",
           "bildirim_no": 1653659,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
