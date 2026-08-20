@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T17:29:13",
+  "generated_at": "2026-08-20T17:59:08",
   "date_start": "2026-08-18",
   "date_end": "2026-08-20",
   "company_count": 35,
-  "total_disclosures": 50,
+  "total_disclosures": 51,
   "total_findings": 5,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -267,7 +267,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -282,7 +282,7 @@
           "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1653710",
           "bildirim_no": 1653710,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
