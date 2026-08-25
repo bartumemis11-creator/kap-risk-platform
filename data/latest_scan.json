@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T14:44:18",
+  "generated_at": "2026-08-25T15:41:44",
   "date_start": "2026-08-23",
   "date_end": "2026-08-25",
   "company_count": 35,
-  "total_disclosures": 16,
-  "total_findings": 0,
-  "new_findings": 0,
+  "total_disclosures": 18,
+  "total_findings": 1,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -120,7 +120,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -180,14 +180,29 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "FENER",
+          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+          "tarih": "25.08.2026 18:20",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "KREDİ DERECELENDİRME İPTAL BİLDİRİMİ",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1654943",
+          "bildirim_no": 1654943,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
