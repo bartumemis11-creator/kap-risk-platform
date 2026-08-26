@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T16:54:34",
+  "generated_at": "2026-08-26T19:03:07",
   "date_start": "2026-08-24",
   "date_end": "2026-08-26",
   "company_count": 35,
-  "total_disclosures": 26,
-  "total_findings": 2,
-  "new_findings": 0,
+  "total_disclosures": 28,
+  "total_findings": 3,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -234,14 +234,28 @@
     {
       "hisse": "KLYPV",
       "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
-      "skor": 9.6,
+      "skor": 13.0,
       "not": "B",
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 4,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "KLYPV",
+          "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
+          "tarih": "26.08.2026 20:51",
+          "kategori": "Yönetim / Genel Kurul Riski",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Yönetim Kurulu Üye Değişikliği hk.",
+          "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1655230",
+          "bildirim_no": 1655230,
+          "yeni": true
+        },
         {
           "hisse": "KLYPV",
           "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
