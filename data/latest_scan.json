@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-28T21:07:45",
-  "date_start": "2026-08-26",
-  "date_end": "2026-08-28",
+  "generated_at": "2026-08-29T03:15:57",
+  "date_start": "2026-08-27",
+  "date_end": "2026-08-29",
   "company_count": 35,
-  "total_disclosures": 25,
-  "total_findings": 4,
-  "new_findings": 3,
+  "total_disclosures": 17,
+  "total_findings": 3,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -219,29 +219,14 @@
     {
       "hisse": "KLYPV",
       "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "KLYPV",
-          "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
-          "tarih": "26.08.2026 20:51",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Yönetim Kurulu Üye Değişikliği hk.",
-          "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1655230",
-          "bildirim_no": 1655230,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -330,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -356,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -462,7 +447,7 @@
           "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1655753",
           "bildirim_no": 1655753,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -490,7 +475,7 @@
           "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1655753",
           "bildirim_no": 1655753,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -503,7 +488,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 3,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -518,7 +503,7 @@
           "gerekce": "'bddk' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1655889",
           "bildirim_no": 1655889,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
