@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-30T23:43:09",
-  "date_start": "2026-08-28",
-  "date_end": "2026-08-30",
+  "generated_at": "2026-08-31T03:55:32",
+  "date_start": "2026-08-29",
+  "date_end": "2026-08-31",
   "company_count": 35,
-  "total_disclosures": 11,
-  "total_findings": 3,
+  "total_disclosures": 2,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -159,7 +159,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -224,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -328,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -354,7 +354,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -427,85 +427,40 @@
     {
       "hisse": "VESBE",
       "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 1,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "VESBE",
-          "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-          "tarih": "28.08.2026 16:13",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği Hakkında",
-          "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1655753",
-          "bildirim_no": 1655753,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 1,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "VESTL",
-          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-          "tarih": "28.08.2026 16:13",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği Hakkında",
-          "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1655753",
-          "bildirim_no": 1655753,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
       "hisse": "YKBNK",
       "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-      "skor": 14.4,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 1,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "YKBNK",
-          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-          "tarih": "28.08.2026 18:10",
-          "kategori": "Regülatör Cezası / Yaptırım",
-          "siddet": "ORTA",
-          "agirlik": 6,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Genel Müdür Yardımcısı Ataması",
-          "gerekce": "'bddk' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1655889",
-          "bildirim_no": 1655889,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -516,7 +471,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
