@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T14:07:36",
+  "generated_at": "2026-09-02T17:59:47",
   "date_start": "2026-08-31",
   "date_end": "2026-09-02",
   "company_count": 35,
-  "total_disclosures": 47,
-  "total_findings": 2,
-  "new_findings": 0,
+  "total_disclosures": 58,
+  "total_findings": 4,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -211,7 +211,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -284,14 +284,29 @@
     {
       "hisse": "MARTI",
       "sirket": "MARTI OTEL İŞLETMELERİ A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 7.2,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "MARTI",
+          "sirket": "MARTI OTEL İŞLETMELERİ A.Ş.",
+          "tarih": "02.09.2026 18:12",
+          "kategori": "Piyasa Tedbirleri",
+          "siddet": "DÜŞÜK",
+          "agirlik": 3,
+          "baslik": "Olağan Dışı Fiyat ve Miktar Hareketleri",
+          "ozet": "Olağandışı Fiyat ve Miktar Hareketleri Hakkında Açıklama",
+          "gerekce": "'olagan disi fiyat' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1657513",
+          "bildirim_no": 1657513,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -302,7 +317,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -315,7 +330,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -323,14 +338,28 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 29.2,
+      "skor": 34.0,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 7,
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "PASEU",
+          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+          "tarih": "02.09.2026 18:39",
+          "kategori": "Piyasa Tedbirleri",
+          "siddet": "DÜŞÜK",
+          "agirlik": 2,
+          "baslik": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+          "ozet": "Pay Piyasasında Volatilite Bazlı Tedbir Sistemi",
+          "gerekce": "'volatilite bazli tedbir' ifadesi (başlık/özet) — BIST/SPK piyasa duyurusu",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1657580",
+          "bildirim_no": 1657580,
+          "yeni": true
+        },
         {
           "hisse": "PASEU",
           "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
@@ -422,7 +451,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 7,
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -500,7 +529,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
