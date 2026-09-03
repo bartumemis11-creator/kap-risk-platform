@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T11:32:26",
+  "generated_at": "2026-09-03T15:52:40",
   "date_start": "2026-09-01",
   "date_end": "2026-09-03",
   "company_count": 35,
-  "total_disclosures": 56,
-  "total_findings": 2,
-  "new_findings": 0,
+  "total_disclosures": 65,
+  "total_findings": 3,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -263,7 +263,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -284,14 +284,28 @@
     {
       "hisse": "MARTI",
       "sirket": "MARTI OTEL İŞLETMELERİ A.Ş.",
-      "skor": 7.2,
+      "skor": 8.9,
       "not": "B",
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "MARTI",
+          "sirket": "MARTI OTEL İŞLETMELERİ A.Ş.",
+          "tarih": "03.09.2026 18:28",
+          "kategori": "Piyasa Tedbirleri",
+          "siddet": "DÜŞÜK",
+          "agirlik": 2,
+          "baslik": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+          "ozet": "Pay Piyasasında Volatilite Bazlı Tedbir Sistemi",
+          "gerekce": "'volatilite bazli tedbir' ifadesi (başlık/özet) — BIST/SPK piyasa duyurusu",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1658633",
+          "bildirim_no": 1658633,
+          "yeni": true
+        },
         {
           "hisse": "MARTI",
           "sirket": "MARTI OTEL İŞLETMELERİ A.Ş.",
@@ -330,7 +344,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -384,7 +398,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -501,7 +515,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
