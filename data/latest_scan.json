@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T15:52:40",
+  "generated_at": "2026-09-03T19:08:21",
   "date_start": "2026-09-01",
   "date_end": "2026-09-03",
   "company_count": 35,
   "total_disclosures": 65,
   "total_findings": 3,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -304,7 +304,7 @@
           "gerekce": "'volatilite bazli tedbir' ifadesi (başlık/özet) — BIST/SPK piyasa duyurusu",
           "link": "https://www.kap.org.tr/tr/Bildirim/1658633",
           "bildirim_no": 1658633,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "MARTI",
