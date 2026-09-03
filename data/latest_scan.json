@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T23:05:34",
-  "date_start": "2026-08-31",
-  "date_end": "2026-09-02",
+  "generated_at": "2026-09-03T01:18:40",
+  "date_start": "2026-09-01",
+  "date_end": "2026-09-03",
   "company_count": 35,
-  "total_disclosures": 61,
-  "total_findings": 4,
+  "total_disclosures": 47,
+  "total_findings": 2,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -55,7 +55,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -224,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -289,7 +289,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -338,12 +338,12 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 34.0,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 8,
+      "skor": 4.8,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -358,34 +358,6 @@
           "gerekce": "'volatilite bazli tedbir' ifadesi (başlık/özet) — BIST/SPK piyasa duyurusu",
           "link": "https://www.kap.org.tr/tr/Bildirim/1657580",
           "bildirim_no": 1657580,
-          "yeni": false
-        },
-        {
-          "hisse": "PASEU",
-          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-          "tarih": "31.08.2026 19:39",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "Kredi Derecelendirme Bildirimi",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1656504",
-          "bildirim_no": 1656504,
-          "yeni": false
-        },
-        {
-          "hisse": "PASEU",
-          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-          "tarih": "31.08.2026 18:15",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "KREDİ DERECELENDİRME BİLDİRİMİ",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1656449",
-          "bildirim_no": 1656449,
           "yeni": false
         }
       ],
@@ -490,7 +462,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -503,7 +475,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -529,7 +501,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
