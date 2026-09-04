@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T08:10:07",
+  "generated_at": "2026-09-04T12:51:50",
   "date_start": "2026-09-02",
   "date_end": "2026-09-04",
   "company_count": 35,
-  "total_disclosures": 50,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 58,
+  "total_findings": 4,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -115,14 +115,29 @@
     {
       "hisse": "DOAS",
       "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "DOAS",
+          "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
+          "tarih": "04.09.2026 12:30",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+          "ozet": "Kurumsal Yönetim İlkelerine Uyum Derecelendirme Sözleşmesi",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1658852",
+          "bildirim_no": 1658852,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -224,7 +239,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -515,7 +530,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 8,
+      "taranan": 14,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
