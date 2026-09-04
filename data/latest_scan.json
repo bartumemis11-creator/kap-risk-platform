@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T16:45:52",
+  "generated_at": "2026-09-04T19:19:41",
   "date_start": "2026-09-02",
   "date_end": "2026-09-04",
   "company_count": 35,
   "total_disclosures": 64,
   "total_findings": 5,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -267,7 +267,7 @@
           "gerekce": "'gerceklesmeyen itfa' ifadesi (başlık/özet) — BIST/SPK piyasa duyurusu",
           "link": "https://www.kap.org.tr/tr/Bildirim/1658985",
           "bildirim_no": 1658985,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
