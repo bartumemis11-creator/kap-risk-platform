@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T23:45:35",
-  "date_start": "2026-09-02",
-  "date_end": "2026-09-04",
+  "generated_at": "2026-09-05T03:09:20",
+  "date_start": "2026-09-03",
+  "date_end": "2026-09-05",
   "company_count": 35,
-  "total_disclosures": 64,
-  "total_findings": 5,
+  "total_disclosures": 34,
+  "total_findings": 3,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -213,7 +213,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -226,7 +226,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -239,7 +239,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -314,12 +314,12 @@
     {
       "hisse": "MARTI",
       "sirket": "MARTI OTEL İŞLETMELERİ A.Ş.",
-      "skor": 8.9,
+      "skor": 4.8,
       "not": "B",
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 7,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -335,20 +335,6 @@
           "link": "https://www.kap.org.tr/tr/Bildirim/1658633",
           "bildirim_no": 1658633,
           "yeni": false
-        },
-        {
-          "hisse": "MARTI",
-          "sirket": "MARTI OTEL İŞLETMELERİ A.Ş.",
-          "tarih": "02.09.2026 18:12",
-          "kategori": "Piyasa Tedbirleri",
-          "siddet": "DÜŞÜK",
-          "agirlik": 3,
-          "baslik": "Olağan Dışı Fiyat ve Miktar Hareketleri",
-          "ozet": "Olağandışı Fiyat ve Miktar Hareketleri Hakkında Açıklama",
-          "gerekce": "'olagan disi fiyat' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1657513",
-          "bildirim_no": 1657513,
-          "yeni": false
         }
       ],
       "improvements": []
@@ -361,7 +347,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -374,7 +360,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -382,29 +368,14 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 4.8,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 4,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "PASEU",
-          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-          "tarih": "02.09.2026 18:39",
-          "kategori": "Piyasa Tedbirleri",
-          "siddet": "DÜŞÜK",
-          "agirlik": 2,
-          "baslik": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
-          "ozet": "Pay Piyasasında Volatilite Bazlı Tedbir Sistemi",
-          "gerekce": "'volatilite bazli tedbir' ifadesi (başlık/özet) — BIST/SPK piyasa duyurusu",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1657580",
-          "bildirim_no": 1657580,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -428,7 +399,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -441,7 +412,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -454,7 +425,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -467,7 +438,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -532,7 +503,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -545,7 +516,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 16,
+      "taranan": 12,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
