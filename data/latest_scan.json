@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T05:39:20",
+  "generated_at": "2026-09-11T10:42:08",
   "date_start": "2026-09-09",
   "date_end": "2026-09-11",
   "company_count": 35,
-  "total_disclosures": 22,
+  "total_disclosures": 26,
   "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
@@ -172,7 +172,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -224,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -302,10 +302,25 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
-      "improvements": []
+      "improvements": [
+        {
+          "hisse": "MZHLD",
+          "sirket": "MAZHAR ZORLU HOLDİNG A.Ş.",
+          "tarih": "11.09.2026 12:59",
+          "kategori": "İcra / Haciz Takipleri",
+          "siddet": "İYİLEŞME",
+          "agirlik": 0,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "TMSF ve Güç Yapı A.Ş. Arasında Mutabık Kalınan Nihai Protokolün İmzalanması Hakkında",
+          "gerekce": "olumlu yönlü gelişme ('icra takip' bağlamında kaldırma/çıkarma/lehte sonuç ifadesi)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1661835",
+          "bildirim_no": 1661835,
+          "yeni": false
+        }
+      ]
     },
     {
       "hisse": "PAHOL",
@@ -328,7 +343,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
