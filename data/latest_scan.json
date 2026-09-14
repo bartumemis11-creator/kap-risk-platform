@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T16:48:40",
+  "generated_at": "2026-09-14T20:46:10",
   "date_start": "2026-09-12",
   "date_end": "2026-09-14",
   "company_count": 35,
-  "total_disclosures": 11,
-  "total_findings": 0,
-  "new_findings": 0,
+  "total_disclosures": 15,
+  "total_findings": 1,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -323,14 +323,29 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 9.6,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 4,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "PASEU",
+          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+          "tarih": "14.09.2026 20:23",
+          "kategori": "Yönetim / Genel Kurul Riski",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Yatırımcı İlişkileri Bölümü Yöneticisi Atanması Hakkında",
+          "gerekce": "'istifa' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1662626",
+          "bildirim_no": 1662626,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
