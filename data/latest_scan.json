@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-20T22:38:11",
-  "date_start": "2026-09-18",
-  "date_end": "2026-09-20",
+  "generated_at": "2026-09-21T00:52:44",
+  "date_start": "2026-09-19",
+  "date_end": "2026-09-21",
   "company_count": 35,
-  "total_disclosures": 19,
-  "total_findings": 2,
+  "total_disclosures": 1,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -55,7 +55,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -167,43 +167,14 @@
     {
       "hisse": "ERGLI",
       "sirket": "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş.",
-      "skor": 19.4,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "ERGLI",
-          "sirket": "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş.",
-          "tarih": "18.09.2026 18:25",
-          "kategori": "Denetçi Görüşü / Süreklilik Şüphesi",
-          "siddet": "ORTA",
-          "agirlik": 6,
-          "baslik": "Sorumluluk Beyanı (Konsolide)",
-          "ozet": "30.06.2026 Sorumluluk Beyanı",
-          "gerekce": "finansal raporlama gecikmesi: dönem sonundan 80 gün sonra yayımlandı (olağan eşik ~75 gün) — denetim/kapanış sorunlarına işaret edebilir",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1665545",
-          "bildirim_no": 1665545,
-          "yeni": false
-        },
-        {
-          "hisse": "ERGLI",
-          "sirket": "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş.",
-          "tarih": "18.09.2026 18:25",
-          "kategori": "Denetçi Görüşü / Süreklilik Şüphesi",
-          "siddet": "ORTA",
-          "agirlik": 6,
-          "baslik": "Faaliyet Raporu (Konsolide)",
-          "ozet": "30.06.2026 Faaliyet Raporu",
-          "gerekce": "finansal raporlama gecikmesi: dönem sonundan 80 gün sonra yayımlandı (olağan eşik ~75 gün) — denetim/kapanış sorunlarına işaret edebilir",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1665544",
-          "bildirim_no": 1665544,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -240,7 +211,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -253,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -331,7 +302,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -344,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -383,7 +354,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -396,7 +367,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -409,7 +380,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -500,7 +471,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
