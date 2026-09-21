@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T18:18:45",
+  "generated_at": "2026-09-21T22:08:32",
   "date_start": "2026-09-19",
   "date_end": "2026-09-21",
   "company_count": 35,
-  "total_disclosures": 43,
+  "total_disclosures": 51,
   "total_findings": 2,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -83,7 +83,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -135,7 +135,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -213,7 +213,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -239,7 +239,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -278,7 +278,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -343,7 +343,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -356,7 +356,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -369,7 +369,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -410,7 +410,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1666193",
           "bildirim_no": 1666193,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
