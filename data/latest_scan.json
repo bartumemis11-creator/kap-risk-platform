@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T12:23:39",
+  "generated_at": "2026-09-22T17:10:01",
   "date_start": "2026-09-20",
   "date_end": "2026-09-22",
   "company_count": 35,
-  "total_disclosures": 55,
+  "total_disclosures": 60,
   "total_findings": 5,
-  "new_findings": 3,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -83,7 +83,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 7,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -278,7 +278,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -330,7 +330,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -410,7 +410,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1666463",
           "bildirim_no": 1666463,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "THYAO",
@@ -502,7 +502,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -517,7 +517,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1666515",
           "bildirim_no": 1666515,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "YKBNK",
@@ -531,7 +531,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1666453",
           "bildirim_no": 1666453,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
