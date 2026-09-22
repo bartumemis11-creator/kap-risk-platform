@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T17:10:01",
+  "generated_at": "2026-09-22T20:23:25",
   "date_start": "2026-09-20",
   "date_end": "2026-09-22",
   "company_count": 35,
-  "total_disclosures": 60,
-  "total_findings": 5,
-  "new_findings": 0,
+  "total_disclosures": 61,
+  "total_findings": 6,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -390,14 +390,28 @@
     {
       "hisse": "THYAO",
       "sirket": "TÜRK HAVA YOLLARI A.O.",
-      "skor": 32.4,
+      "skor": 40.8,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "THYAO",
+          "sirket": "TÜRK HAVA YOLLARI A.O.",
+          "tarih": "22.09.2026 20:43",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "Temerrüt İşleminin Tamamlanması",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1666846",
+          "bildirim_no": 1666846,
+          "yeni": true
+        },
         {
           "hisse": "THYAO",
           "sirket": "TÜRK HAVA YOLLARI A.O.",
