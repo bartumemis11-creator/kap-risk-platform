@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T12:55:42",
+  "generated_at": "2026-09-23T17:44:15",
   "date_start": "2026-09-21",
   "date_end": "2026-09-23",
   "company_count": 35,
-  "total_disclosures": 72,
-  "total_findings": 6,
-  "new_findings": 0,
+  "total_disclosures": 88,
+  "total_findings": 7,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -278,7 +278,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -330,7 +330,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -356,7 +356,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 7,
+      "taranan": 9,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -369,7 +369,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -395,7 +395,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -451,7 +451,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -477,7 +477,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -516,7 +516,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 6,
+      "taranan": 9,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -548,19 +548,49 @@
           "yeni": false
         }
       ],
-      "improvements": []
+      "improvements": [
+        {
+          "hisse": "YKBNK",
+          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+          "tarih": "23.09.2026 19:50",
+          "kategori": "Önemli Dava / Tahkim",
+          "siddet": "İYİLEŞME",
+          "agirlik": 0,
+          "baslik": "Ortaklık Aleyhine Dava Açılması veya Davaya İlişkin Gelişmeler",
+          "ozet": "Genel kurul kararı aleyhine açılan dava hk.",
+          "gerekce": "olumlu yönlü gelişme ('dava acil' bağlamında kaldırma/çıkarma/lehte sonuç ifadesi)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1667394",
+          "bildirim_no": 1667394,
+          "yeni": false
+        }
+      ]
     },
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 9,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 13,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "23.09.2026 18:23",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "Moody's Ratings Kredi Derecelendirme Notu",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (negatif, default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1667342",
+          "bildirim_no": 1667342,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
