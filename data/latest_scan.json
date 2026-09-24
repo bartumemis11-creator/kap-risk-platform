@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-23T23:53:01",
-  "date_start": "2026-09-21",
-  "date_end": "2026-09-23",
+  "generated_at": "2026-09-24T03:22:02",
+  "date_start": "2026-09-22",
+  "date_end": "2026-09-24",
   "company_count": 35,
-  "total_disclosures": 91,
-  "total_findings": 7,
+  "total_disclosures": 41,
+  "total_findings": 5,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -50,29 +50,14 @@
     {
       "hisse": "AKSEN",
       "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
-      "skor": 16.8,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "AKSEN",
-          "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
-          "tarih": "21.09.2026 09:38",
-          "kategori": "Regülatör Cezası / Yaptırım",
-          "siddet": "YÜKSEK",
-          "agirlik": 7,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Van ili Zümrüt Depolamalı Güneş Enerjisi Santrali Üretim Lisansının EPDK Onayı Hakkında ",
-          "gerekce": "'epdk' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1665667",
-          "bildirim_no": 1665667,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -83,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 8,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -109,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -135,7 +120,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -174,7 +159,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -213,7 +198,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -226,7 +211,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -239,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -278,7 +263,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -317,7 +302,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -330,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -343,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -356,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 10,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -369,7 +354,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -382,7 +367,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -390,12 +375,12 @@
     {
       "hisse": "THYAO",
       "sirket": "TÜRK HAVA YOLLARI A.O.",
-      "skor": 40.8,
+      "skor": 32.4,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 5,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -424,20 +409,6 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1666463",
           "bildirim_no": 1666463,
-          "yeni": false
-        },
-        {
-          "hisse": "THYAO",
-          "sirket": "TÜRK HAVA YOLLARI A.O.",
-          "tarih": "21.09.2026 17:07",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1666193",
-          "bildirim_no": 1666193,
           "yeni": false
         }
       ],
@@ -503,7 +474,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -516,7 +487,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 9,
+      "taranan": 7,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -573,7 +544,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 13,
+      "taranan": 9,
       "veri_hatasi": 0,
       "findings": [
         {
