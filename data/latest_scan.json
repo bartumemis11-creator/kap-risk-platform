@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T08:40:54",
+  "generated_at": "2026-09-24T14:03:32",
   "date_start": "2026-09-22",
   "date_end": "2026-09-24",
   "company_count": 35,
-  "total_disclosures": 43,
-  "total_findings": 5,
-  "new_findings": 0,
+  "total_disclosures": 57,
+  "total_findings": 7,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -50,14 +50,43 @@
     {
       "hisse": "AKSEN",
       "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 32.4,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "AKSEN",
+          "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
+          "tarih": "24.09.2026 14:33",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "Temerrüt İşleminin Tamamlanması",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1667652",
+          "bildirim_no": 1667652,
+          "yeni": true
+        },
+        {
+          "hisse": "AKSEN",
+          "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
+          "tarih": "24.09.2026 12:18",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "İşleme Açılan Temerrüt Sırası",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1667573",
+          "bildirim_no": 1667573,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -68,7 +97,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +188,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -224,7 +253,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -263,7 +292,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -302,7 +331,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -354,7 +383,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -461,7 +490,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -544,7 +573,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 10,
+      "taranan": 11,
       "veri_hatasi": 0,
       "findings": [
         {
