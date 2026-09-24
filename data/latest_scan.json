@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T03:22:02",
+  "generated_at": "2026-09-24T08:40:54",
   "date_start": "2026-09-22",
   "date_end": "2026-09-24",
   "company_count": 35,
-  "total_disclosures": 41,
+  "total_disclosures": 43,
   "total_findings": 5,
   "new_findings": 0,
   "unmatched_groups": [
@@ -487,7 +487,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 7,
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -544,7 +544,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 9,
+      "taranan": 10,
       "veri_hatasi": 0,
       "findings": [
         {
