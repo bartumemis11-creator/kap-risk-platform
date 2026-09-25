@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T10:26:19",
+  "generated_at": "2026-09-25T15:27:05",
   "date_start": "2026-09-23",
   "date_end": "2026-09-25",
   "company_count": 35,
-  "total_disclosures": 58,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 64,
+  "total_findings": 7,
+  "new_findings": 4,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -201,7 +201,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -396,7 +396,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -417,14 +417,43 @@
     {
       "hisse": "TUPRS",
       "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 32.4,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 3,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "TUPRS",
+          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+          "tarih": "25.09.2026 17:16",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu",
+          "ozet": "Temerrüt İşleminin Tamamlanması",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1668226",
+          "bildirim_no": 1668226,
+          "yeni": true
+        },
+        {
+          "hisse": "TUPRS",
+          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+          "tarih": "25.09.2026 15:58",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu",
+          "ozet": "İşleme Açılan Temerrüt Sırası",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1668192",
+          "bildirim_no": 1668192,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -456,27 +485,57 @@
     {
       "hisse": "VESBE",
       "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "VESBE",
+          "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
+          "tarih": "25.09.2026 18:16",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "KREDİ DERECELENDİRME BİLDİRİMİ",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1668304",
+          "bildirim_no": 1668304,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "VESTL",
+          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+          "tarih": "25.09.2026 18:16",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "KREDİ DERECELENDİRME BİLDİRİMİ",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1668303",
+          "bildirim_no": 1668303,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
