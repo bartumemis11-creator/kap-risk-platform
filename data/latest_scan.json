@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T15:27:05",
+  "generated_at": "2026-09-25T19:27:25",
   "date_start": "2026-09-23",
   "date_end": "2026-09-25",
   "company_count": 35,
-  "total_disclosures": 64,
-  "total_findings": 7,
-  "new_findings": 4,
+  "total_disclosures": 68,
+  "total_findings": 9,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -292,7 +292,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -437,7 +437,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1668226",
           "bildirim_no": 1668226,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "TUPRS",
@@ -451,7 +451,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1668192",
           "bildirim_no": 1668192,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -485,14 +485,28 @@
     {
       "hisse": "VESBE",
       "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-      "skor": 21.6,
+      "skor": 29.2,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "VESBE",
+          "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
+          "tarih": "25.09.2026 20:49",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "Vestel Beyaz Eşya Sanayi ve Ticaret AŞ Kredi Derecelendirme Notu Hakkında",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1668363",
+          "bildirim_no": 1668363,
+          "yeni": true
+        },
         {
           "hisse": "VESBE",
           "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
@@ -505,7 +519,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1668304",
           "bildirim_no": 1668304,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -513,14 +527,28 @@
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 21.6,
+      "skor": 29.2,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "VESTL",
+          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+          "tarih": "25.09.2026 20:47",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "Vestel Elektronik Sanayi ve Ticaret AŞ Kredi Derecelendirme Notu Hakkında",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1668361",
+          "bildirim_no": 1668361,
+          "yeni": true
+        },
         {
           "hisse": "VESTL",
           "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -533,7 +561,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1668303",
           "bildirim_no": 1668303,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
