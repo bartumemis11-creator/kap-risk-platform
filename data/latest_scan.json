@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T20:08:46",
+  "generated_at": "2026-09-29T23:53:43",
   "date_start": "2026-09-27",
   "date_end": "2026-09-29",
   "company_count": 35,
   "total_disclosures": 42,
   "total_findings": 5,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -216,7 +216,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1669768",
           "bildirim_no": 1669768,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "ERGLI",
