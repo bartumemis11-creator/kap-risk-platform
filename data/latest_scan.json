@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T16:41:19",
+  "generated_at": "2026-09-30T21:14:09",
   "date_start": "2026-09-28",
   "date_end": "2026-09-30",
   "company_count": 35,
-  "total_disclosures": 82,
+  "total_disclosures": 83,
   "total_findings": 11,
-  "new_findings": 6,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -282,7 +282,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -310,7 +310,7 @@
           "gerekce": "'istifa' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1670545",
           "bildirim_no": 1670545,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -403,7 +403,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1670503",
           "bildirim_no": 1670503,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "PAHOL",
@@ -417,7 +417,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1670432",
           "bildirim_no": 1670432,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -445,7 +445,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1670430",
           "bildirim_no": 1670430,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -486,7 +486,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1670440",
           "bildirim_no": 1670440,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -605,7 +605,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1670118",
           "bildirim_no": 1670118,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
