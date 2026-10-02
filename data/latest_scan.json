@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-01T23:42:58",
-  "date_start": "2026-09-29",
-  "date_end": "2026-10-01",
+  "generated_at": "2026-10-02T04:16:49",
+  "date_start": "2026-09-30",
+  "date_end": "2026-10-02",
   "company_count": 35,
-  "total_disclosures": 74,
-  "total_findings": 11,
+  "total_disclosures": 60,
+  "total_findings": 7,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -50,43 +50,14 @@
     {
       "hisse": "AKSEN",
       "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
-      "skor": 32.4,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 4,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "AKSEN",
-          "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
-          "tarih": "29.09.2026 15:29",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "Temerrüt İşleminin Tamamlanması",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1669525",
-          "bildirim_no": 1669525,
-          "yeni": false
-        },
-        {
-          "hisse": "AKSEN",
-          "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
-          "tarih": "29.09.2026 11:29",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1669351",
-          "bildirim_no": 1669351,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -97,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -123,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -196,43 +167,14 @@
     {
       "hisse": "ERGLI",
       "sirket": "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş.",
-      "skor": 29.2,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 2,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "ERGLI",
-          "sirket": "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş.",
-          "tarih": "29.09.2026 18:37",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "KREDİ DERECELENDİRME BİLDİRİMİ",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1669768",
-          "bildirim_no": 1669768,
-          "yeni": false
-        },
-        {
-          "hisse": "ERGLI",
-          "sirket": "EREĞLİ TEKSTİL TURİZM SANAYİ VE TİCARET A.Ş.",
-          "tarih": "29.09.2026 18:16",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "KREDİ DERECELENDİRME BİLDİRİMİ",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1669731",
-          "bildirim_no": 1669731,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -269,7 +211,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -336,7 +278,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -388,7 +330,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -430,7 +372,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -458,7 +400,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -525,7 +467,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
