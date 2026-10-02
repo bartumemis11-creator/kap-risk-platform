@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T04:16:49",
+  "generated_at": "2026-10-02T10:40:35",
   "date_start": "2026-09-30",
   "date_end": "2026-10-02",
   "company_count": 35,
-  "total_disclosures": 60,
-  "total_findings": 7,
-  "new_findings": 0,
+  "total_disclosures": 64,
+  "total_findings": 9,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -304,7 +304,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -462,14 +462,43 @@
     {
       "hisse": "TUPRS",
       "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 3,
+      "skor": 29.2,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 5,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "TUPRS",
+          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+          "tarih": "02.10.2026 12:14",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+          "ozet": "Kurumsal Yönetim Derecelendirme Not Bildirimi",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1671264",
+          "bildirim_no": 1671264,
+          "yeni": true
+        },
+        {
+          "hisse": "TUPRS",
+          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+          "tarih": "02.10.2026 09:24",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+          "ozet": "Kurumsal Yönetim Derecelendirme Notu",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1671102",
+          "bildirim_no": 1671102,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -575,7 +604,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
