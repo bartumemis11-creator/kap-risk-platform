@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T23:17:03",
-  "date_start": "2026-10-05",
-  "date_end": "2026-10-07",
+  "generated_at": "2026-10-08T02:50:45",
+  "date_start": "2026-10-06",
+  "date_end": "2026-10-08",
   "company_count": 35,
-  "total_disclosures": 33,
+  "total_disclosures": 19,
   "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -224,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -237,7 +237,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -263,7 +263,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -289,7 +289,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -315,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -341,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -367,7 +367,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -471,7 +471,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 8,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
