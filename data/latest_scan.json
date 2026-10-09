@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-09T16:29:07",
+  "generated_at": "2026-10-09T21:10:21",
   "date_start": "2026-10-07",
   "date_end": "2026-10-09",
   "company_count": 35,
   "total_disclosures": 39,
   "total_findings": 1,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -473,7 +473,7 @@
           "gerekce": "'dava acil' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1678618",
           "bildirim_no": 1678618,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
