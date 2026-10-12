@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-11T23:04:43",
-  "date_start": "2026-10-09",
-  "date_end": "2026-10-11",
+  "generated_at": "2026-10-12T02:35:48",
+  "date_start": "2026-10-10",
+  "date_end": "2026-10-12",
   "company_count": 35,
-  "total_disclosures": 13,
-  "total_findings": 1,
+  "total_disclosures": 0,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -263,7 +263,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -289,7 +289,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -315,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -328,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -380,7 +380,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -445,7 +445,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -453,29 +453,14 @@
     {
       "hisse": "YKBNK",
       "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 1,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "YKBNK",
-          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-          "tarih": "09.10.2026 18:17",
-          "kategori": "Önemli Dava / Tahkim",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Ortaklık Aleyhine Dava Açılması veya Davaya İlişkin Gelişmeler",
-          "ozet": "Genel kurul kararı aleyhine açılan dava hk.",
-          "gerekce": "'dava acil' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1678618",
-          "bildirim_no": 1678618,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
