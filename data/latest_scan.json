@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-12T19:57:32",
-  "date_start": "2026-10-10",
-  "date_end": "2026-10-12",
+  "generated_at": "2026-10-13T01:53:30",
+  "date_start": "2026-10-11",
+  "date_end": "2026-10-13",
   "company_count": 35,
-  "total_disclosures": 18,
-  "total_findings": 1,
+  "total_disclosures": 22,
+  "total_findings": 2,
   "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
@@ -200,7 +200,7 @@
           "gerekce": "'ttk 376' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1679748",
           "bildirim_no": 1679748,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -208,14 +208,29 @@
     {
       "hisse": "GSRAY",
       "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 19.2,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 5,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "GSRAY",
+          "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
+          "tarih": "12.10.2026 23:50",
+          "kategori": "Finansal Yeniden Yapılandırma",
+          "siddet": "YÜKSEK",
+          "agirlik": 8,
+          "baslik": "TTK'nın 376. Maddesi Kapsamında Yapılan İşlemler",
+          "ozet": "TTK 376 Bilançosu ve Dipnotları",
+          "gerekce": "'ttk 376' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1679870",
+          "bildirim_no": 1679870,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
