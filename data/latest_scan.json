@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T23:08:26",
-  "date_start": "2026-10-12",
-  "date_end": "2026-10-14",
+  "generated_at": "2026-10-15T01:41:04",
+  "date_start": "2026-10-13",
+  "date_end": "2026-10-15",
   "company_count": 35,
-  "total_disclosures": 41,
-  "total_findings": 4,
+  "total_disclosures": 19,
+  "total_findings": 2,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -55,7 +55,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -120,7 +120,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -188,7 +188,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -209,57 +209,27 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 16.8,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 4,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "FENER",
-          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-          "tarih": "12.10.2026 18:35",
-          "kategori": "Finansal Yeniden Yapılandırma",
-          "siddet": "YÜKSEK",
-          "agirlik": 7,
-          "baslik": "TTK'nın 376. Maddesi Kapsamında Yapılan İşlemler",
-          "ozet": "TTK'nın 376. Maddesi Kapsamında Açıklamamız",
-          "gerekce": "'ttk 376' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1679748",
-          "bildirim_no": 1679748,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
       "hisse": "GSRAY",
       "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
-      "skor": 19.2,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 7,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "GSRAY",
-          "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
-          "tarih": "12.10.2026 23:50",
-          "kategori": "Finansal Yeniden Yapılandırma",
-          "siddet": "YÜKSEK",
-          "agirlik": 8,
-          "baslik": "TTK'nın 376. Maddesi Kapsamında Yapılan İşlemler",
-          "ozet": "TTK 376 Bilançosu ve Dipnotları",
-          "gerekce": "'ttk 376' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1679870",
-          "bildirim_no": 1679870,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -322,7 +292,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -348,7 +318,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -387,7 +357,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -439,7 +409,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -517,7 +487,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
