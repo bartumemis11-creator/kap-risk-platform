@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-15T23:38:31",
-  "date_start": "2026-10-13",
-  "date_end": "2026-10-15",
+  "generated_at": "2026-10-16T03:20:08",
+  "date_start": "2026-10-14",
+  "date_end": "2026-10-16",
   "company_count": 35,
-  "total_disclosures": 28,
-  "total_findings": 2,
+  "total_disclosures": 19,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -115,43 +115,14 @@
     {
       "hisse": "DOAS",
       "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
-      "skor": 13.0,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 2,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "DOAS",
-          "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
-          "tarih": "13.10.2026 18:48",
-          "kategori": "Varlık Satışı / Nakit Yaratma",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Finansal Duran Varlık Satışı",
-          "ozet": "Tüvtürk Güney Taşıt Muayene İstasyonları Yapım İşletim A.Ş. Paylarının Satışına İlişkin Görüşmelerin Başlaması Hakkında",
-          "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1681127",
-          "bildirim_no": 1681127,
-          "yeni": false
-        },
-        {
-          "hisse": "DOAS",
-          "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
-          "tarih": "13.10.2026 18:48",
-          "kategori": "Varlık Satışı / Nakit Yaratma",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Finansal Duran Varlık Satışı",
-          "ozet": "Tüvtürk Kuzey Taşıt Muayene İstasyonları Yapım İşletim A.Ş. Paylarının Satışına İlişkin Görüşmelerin Başlaması Hakkında",
-          "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1681125",
-          "bildirim_no": 1681125,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -344,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 8,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -357,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -370,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
