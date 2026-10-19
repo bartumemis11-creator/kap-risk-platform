@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-18T23:31:16",
-  "date_start": "2026-10-16",
-  "date_end": "2026-10-18",
+  "generated_at": "2026-10-19T01:36:30",
+  "date_start": "2026-10-17",
+  "date_end": "2026-10-19",
   "company_count": 35,
-  "total_disclosures": 12,
-  "total_findings": 2,
+  "total_disclosures": 0,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -224,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -289,7 +289,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -328,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -341,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -354,7 +354,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -380,7 +380,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -427,57 +427,27 @@
     {
       "hisse": "VESBE",
       "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 1,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "VESBE",
-          "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-          "tarih": "16.10.2026 13:01",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği Hakkında",
-          "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1683067",
-          "bildirim_no": 1683067,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 2,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "VESTL",
-          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-          "tarih": "16.10.2026 13:01",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği Hakkında",
-          "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1683067",
-          "bildirim_no": 1683067,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -501,7 +471,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
