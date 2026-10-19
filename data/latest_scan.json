@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T20:23:54",
+  "generated_at": "2026-10-19T23:53:03",
   "date_start": "2026-10-17",
   "date_end": "2026-10-19",
   "company_count": 35,
   "total_disclosures": 18,
   "total_findings": 3,
-  "new_findings": 2,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -135,7 +135,7 @@
           "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1684114",
           "bildirim_no": 1684114,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "DOAS",
@@ -149,7 +149,7 @@
           "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1684110",
           "bildirim_no": 1684110,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
