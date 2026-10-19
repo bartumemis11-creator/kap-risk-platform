@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T14:53:24",
+  "generated_at": "2026-10-19T20:23:54",
   "date_start": "2026-10-17",
   "date_end": "2026-10-19",
   "company_count": 35,
-  "total_disclosures": 15,
-  "total_findings": 1,
-  "new_findings": 1,
+  "total_disclosures": 18,
+  "total_findings": 3,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -115,14 +115,43 @@
     {
       "hisse": "DOAS",
       "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 13.0,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "DOAS",
+          "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
+          "tarih": "19.10.2026 18:30",
+          "kategori": "Varlık Satışı / Nakit Yaratma",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Finansal Duran Varlık Satışı",
+          "ozet": "Tüvtürk Güney Taşıt Muayene İstasyonları Yapım İşletim A.Ş. Paylarının Satışına İlişkin Niyet Mektubu İmzalanması Hakkında",
+          "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1684114",
+          "bildirim_no": 1684114,
+          "yeni": true
+        },
+        {
+          "hisse": "DOAS",
+          "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
+          "tarih": "19.10.2026 18:30",
+          "kategori": "Varlık Satışı / Nakit Yaratma",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Finansal Duran Varlık Satışı",
+          "ozet": "Tüvtürk Kuzey Taşıt Muayene İstasyonları Yapım İşletim A.Ş. Paylarının Satışına İlişkin Niyet Mektubu İmzalanması Hakkında ",
+          "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1684110",
+          "bildirim_no": 1684110,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -224,7 +253,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -486,7 +515,7 @@
           "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1683960",
           "bildirim_no": 1683960,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
