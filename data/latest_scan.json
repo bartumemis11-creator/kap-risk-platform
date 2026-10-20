@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T14:26:37",
+  "generated_at": "2026-10-20T18:37:45",
   "date_start": "2026-10-18",
   "date_end": "2026-10-20",
   "company_count": 35,
-  "total_disclosures": 26,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 33,
+  "total_findings": 4,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -201,7 +201,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -357,7 +357,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -370,7 +370,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -469,14 +469,29 @@
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 19.2,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "VESTL",
+          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+          "tarih": "20.10.2026 19:13",
+          "kategori": "Finansal Yeniden Yapılandırma",
+          "siddet": "YÜKSEK",
+          "agirlik": 8,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Finansal yeniden yapılandırma görüşmelerindeki gelişmeler ve yurt dışı tahvil (Eurobond) sahiplerine yönelik başlatılan takas teklifi ve muvafakat talebi hk.",
+          "gerekce": "'finansal yeniden yapilandirma' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1684657",
+          "bildirim_no": 1684657,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
