@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T08:53:14",
+  "generated_at": "2026-10-22T14:22:44",
   "date_start": "2026-10-20",
   "date_end": "2026-10-22",
   "company_count": 35,
-  "total_disclosures": 41,
-  "total_findings": 5,
-  "new_findings": 4,
+  "total_disclosures": 49,
+  "total_findings": 6,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -172,7 +172,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -408,7 +408,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1685683",
           "bildirim_no": 1685683,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "TUPRS",
@@ -422,7 +422,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1685610",
           "bildirim_no": 1685610,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -517,7 +517,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1685682",
           "bildirim_no": 1685682,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "YKBNK",
@@ -531,7 +531,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1685620",
           "bildirim_no": 1685620,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -539,14 +539,29 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 9.6,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 6,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "22.10.2026 17:03",
+          "kategori": "Varlık Satışı / Nakit Yaratma",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Finansal Duran Varlık Satışı",
+          "ozet": "İştirakimiz Electrip Global Limited paylarının satış işleminin tamamlanması hakkında",
+          "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1685884",
+          "bildirim_no": 1685884,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
