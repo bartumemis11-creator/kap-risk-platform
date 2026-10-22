@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T03:29:06",
+  "generated_at": "2026-10-22T08:53:14",
   "date_start": "2026-10-20",
   "date_end": "2026-10-22",
   "company_count": 35,
-  "total_disclosures": 33,
-  "total_findings": 1,
-  "new_findings": 0,
+  "total_disclosures": 41,
+  "total_findings": 5,
+  "new_findings": 4,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -328,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -388,14 +388,43 @@
     {
       "hisse": "TUPRS",
       "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 4,
+      "skor": 32.4,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 6,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "TUPRS",
+          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+          "tarih": "22.10.2026 11:48",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "Temerrüt İşleminin Tamamlanması",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1685683",
+          "bildirim_no": 1685683,
+          "yeni": true
+        },
+        {
+          "hisse": "TUPRS",
+          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+          "tarih": "22.10.2026 10:12",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "İşleme Açılan Temerrüt Sırası",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1685610",
+          "bildirim_no": 1685610,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -445,7 +474,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -468,14 +497,43 @@
     {
       "hisse": "YKBNK",
       "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 2,
+      "skor": 32.4,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 4,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "YKBNK",
+          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+          "tarih": "22.10.2026 11:48",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "Temerrüt İşleminin Tamamlanması",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1685682",
+          "bildirim_no": 1685682,
+          "yeni": true
+        },
+        {
+          "hisse": "YKBNK",
+          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+          "tarih": "22.10.2026 10:18",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "İşleme Açılan Temerrüt Sırası",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1685620",
+          "bildirim_no": 1685620,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
