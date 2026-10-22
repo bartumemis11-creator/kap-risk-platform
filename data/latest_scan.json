@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T14:22:44",
+  "generated_at": "2026-10-22T18:44:03",
   "date_start": "2026-10-20",
   "date_end": "2026-10-22",
   "company_count": 35,
-  "total_disclosures": 49,
-  "total_findings": 6,
-  "new_findings": 1,
+  "total_disclosures": 68,
+  "total_findings": 8,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -180,14 +180,43 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 19.2,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 4,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "FENER",
+          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+          "tarih": "22.10.2026 20:03",
+          "kategori": "Yönetim / Genel Kurul Riski",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Bağımsız Yönetim Kurulu Üye Değişiklikleri",
+          "gerekce": "'istifa' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1686078",
+          "bildirim_no": 1686078,
+          "yeni": true
+        },
+        {
+          "hisse": "FENER",
+          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+          "tarih": "22.10.2026 20:02",
+          "kategori": "Kârlılık / Temettü Sinyali",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+          "ozet": "Kar Dağıtımı Yapılmaması Hakkında",
+          "gerekce": "'kar dagitimi yapilmamasi' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1686077",
+          "bildirim_no": 1686077,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -211,7 +240,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -263,7 +292,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -289,7 +318,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -341,7 +370,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -474,7 +503,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -502,7 +531,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -544,7 +573,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 6,
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -559,7 +588,7 @@
           "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1685884",
           "bildirim_no": 1685884,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
