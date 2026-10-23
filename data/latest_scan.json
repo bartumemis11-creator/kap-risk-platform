@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-22T22:08:37",
-  "date_start": "2026-10-20",
-  "date_end": "2026-10-22",
+  "generated_at": "2026-10-23T00:50:42",
+  "date_start": "2026-10-21",
+  "date_end": "2026-10-23",
   "company_count": 35,
-  "total_disclosures": 69,
-  "total_findings": 8,
+  "total_disclosures": 53,
+  "total_findings": 7,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -172,7 +172,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -227,7 +227,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -253,7 +253,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -331,7 +331,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -357,7 +357,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -370,7 +370,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -422,7 +422,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 6,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -498,29 +498,14 @@
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 19.2,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 5,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 4,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "VESTL",
-          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-          "tarih": "20.10.2026 19:13",
-          "kategori": "Finansal Yeniden Yapılandırma",
-          "siddet": "YÜKSEK",
-          "agirlik": 8,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Finansal yeniden yapılandırma görüşmelerindeki gelişmeler ve yurt dışı tahvil (Eurobond) sahiplerine yönelik başlatılan takas teklifi ve muvafakat talebi hk.",
-          "gerekce": "'finansal yeniden yapilandirma' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1684657",
-          "bildirim_no": 1684657,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -531,7 +516,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
