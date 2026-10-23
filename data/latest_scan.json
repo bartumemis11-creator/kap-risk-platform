@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T15:51:03",
+  "generated_at": "2026-10-23T19:49:00",
   "date_start": "2026-10-21",
   "date_end": "2026-10-23",
   "company_count": 35,
-  "total_disclosures": 89,
+  "total_disclosures": 90,
   "total_findings": 9,
-  "new_findings": 2,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -253,7 +253,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -573,7 +573,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (negatif, default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1686789",
           "bildirim_no": 1686789,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "ZOREN",
@@ -587,7 +587,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1686666",
           "bildirim_no": 1686666,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "ZOREN",
