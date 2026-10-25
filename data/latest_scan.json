@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-24T22:39:57",
-  "date_start": "2026-10-22",
-  "date_end": "2026-10-24",
+  "generated_at": "2026-10-25T00:52:44",
+  "date_start": "2026-10-23",
+  "date_end": "2026-10-25",
   "company_count": 35,
-  "total_disclosures": 73,
-  "total_findings": 9,
+  "total_disclosures": 37,
+  "total_findings": 2,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -172,7 +172,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -180,43 +180,14 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 19.2,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 5,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "FENER",
-          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-          "tarih": "22.10.2026 20:03",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Bağımsız Yönetim Kurulu Üye Değişiklikleri",
-          "gerekce": "'istifa' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1686078",
-          "bildirim_no": 1686078,
-          "yeni": false
-        },
-        {
-          "hisse": "FENER",
-          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-          "tarih": "22.10.2026 20:02",
-          "kategori": "Kârlılık / Temettü Sinyali",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
-          "ozet": "Kar Dağıtımı Yapılmaması Hakkında",
-          "gerekce": "'kar dagitimi yapilmamasi' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1686077",
-          "bildirim_no": 1686077,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -240,7 +211,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -292,7 +263,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -318,7 +289,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -357,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -370,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -417,43 +388,14 @@
     {
       "hisse": "TUPRS",
       "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-      "skor": 32.4,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "TUPRS",
-          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-          "tarih": "22.10.2026 11:48",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "Temerrüt İşleminin Tamamlanması",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1685683",
-          "bildirim_no": 1685683,
-          "yeni": false
-        },
-        {
-          "hisse": "TUPRS",
-          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-          "tarih": "22.10.2026 10:12",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1685610",
-          "bildirim_no": 1685610,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -503,7 +445,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -511,54 +453,25 @@
     {
       "hisse": "YKBNK",
       "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-      "skor": 32.4,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 4,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "YKBNK",
-          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-          "tarih": "22.10.2026 11:48",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "Temerrüt İşleminin Tamamlanması",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1685682",
-          "bildirim_no": 1685682,
-          "yeni": false
-        },
-        {
-          "hisse": "YKBNK",
-          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-          "tarih": "22.10.2026 10:18",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1685620",
-          "bildirim_no": 1685620,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 38.8,
+      "skor": 29.2,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 14,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -587,20 +500,6 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1686666",
           "bildirim_no": 1686666,
-          "yeni": false
-        },
-        {
-          "hisse": "ZOREN",
-          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-          "tarih": "22.10.2026 17:03",
-          "kategori": "Varlık Satışı / Nakit Yaratma",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Finansal Duran Varlık Satışı",
-          "ozet": "İştirakimiz Electrip Global Limited paylarının satış işleminin tamamlanması hakkında",
-          "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1685884",
-          "bildirim_no": 1685884,
           "yeni": false
         }
       ],
