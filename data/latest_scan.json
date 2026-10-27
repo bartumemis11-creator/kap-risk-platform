@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T04:50:19",
+  "generated_at": "2026-10-27T10:14:25",
   "date_start": "2026-10-25",
   "date_end": "2026-10-27",
   "company_count": 35,
-  "total_disclosures": 15,
-  "total_findings": 2,
-  "new_findings": 0,
+  "total_disclosures": 18,
+  "total_findings": 3,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -317,7 +317,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -449,7 +449,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -496,14 +496,29 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 21.6,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "27.10.2026 09:19",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Genel Açıklama",
+          "ozet": "Tacirler Portföy Serbest (Döviz) Fon portföyünde yer alan Zorlu Enerji Elektrik Üretim A.Ş. Eurobond?u (XS2926261426) için karşılık ayrılması hk.",
+          "gerekce": "'temerrut' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1687744",
+          "bildirim_no": 1687744,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
