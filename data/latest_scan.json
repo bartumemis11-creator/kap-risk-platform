@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T15:58:27",
+  "generated_at": "2026-10-27T20:32:02",
   "date_start": "2026-10-25",
   "date_end": "2026-10-27",
   "company_count": 35,
-  "total_disclosures": 23,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 38,
+  "total_findings": 5,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -55,7 +55,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -120,7 +120,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -195,14 +195,29 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 12.0,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "FENER",
+          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+          "tarih": "27.10.2026 20:38",
+          "kategori": "Yönetim / Genel Kurul Riski",
+          "siddet": "ORTA",
+          "agirlik": 5,
+          "baslik": "Teknik Yönetime İlişkin Açıklama",
+          "ozet": "Sayın İsmail Kartal'ın Görevinden Ayrılması Hk.",
+          "gerekce": "'gorevinden ayril' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1688558",
+          "bildirim_no": 1688558,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -239,7 +254,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -330,7 +345,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -338,14 +353,29 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 7.2,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "PASEU",
+          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+          "tarih": "27.10.2026 21:52",
+          "kategori": "Piyasa Tedbirleri",
+          "siddet": "DÜŞÜK",
+          "agirlik": 3,
+          "baslik": "Sermaye Piyasası Kurulu Tedbir Kararı",
+          "ozet": "Sermaye Piyasası Kurulu Tedbir Kararı",
+          "gerekce": "'tedbir karari' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1688591",
+          "bildirim_no": 1688591,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -369,7 +399,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -382,7 +412,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -395,7 +425,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -462,7 +492,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -488,7 +518,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
