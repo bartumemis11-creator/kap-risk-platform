@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T10:14:25",
+  "generated_at": "2026-10-27T15:58:27",
   "date_start": "2026-10-25",
   "date_end": "2026-10-27",
   "company_count": 35,
-  "total_disclosures": 18,
+  "total_disclosures": 23,
   "total_findings": 3,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -343,7 +343,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -356,7 +356,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -369,7 +369,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -449,7 +449,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -501,7 +501,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -516,10 +516,25 @@
           "gerekce": "'temerrut' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1687744",
           "bildirim_no": 1687744,
-          "yeni": true
+          "yeni": false
         }
       ],
-      "improvements": []
+      "improvements": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "27.10.2026 18:50",
+          "kategori": "Regülatör Cezası / Yaptırım",
+          "siddet": "İYİLEŞME",
+          "agirlik": 0,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Tekkehamam II JES Projesi ve İlgili Sözleşmenin Sona Erdirilmesine İlişkin Açıklama",
+          "gerekce": "olumlu yönlü gelişme ('epdk' bağlamında kaldırma/çıkarma/lehte sonuç ifadesi)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1688464",
+          "bildirim_no": 1688464,
+          "yeni": false
+        }
+      ]
     },
     {
       "hisse": "ZOROE",
