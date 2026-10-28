@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T19:00:30",
+  "generated_at": "2026-10-28T23:06:52",
   "date_start": "2026-10-26",
   "date_end": "2026-10-28",
   "company_count": 35,
   "total_disclosures": 46,
   "total_findings": 8,
-  "new_findings": 2,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -575,7 +575,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1689142",
           "bildirim_no": 1689142,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "ZOREN",
@@ -589,7 +589,7 @@
           "gerekce": "olumsuz not aksiyonu tespit edildi (negatif, default)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1689141",
           "bildirim_no": 1689141,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "ZOREN",
