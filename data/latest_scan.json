@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T13:22:22",
+  "generated_at": "2026-10-28T19:00:30",
   "date_start": "2026-10-26",
   "date_end": "2026-10-28",
   "company_count": 35,
-  "total_disclosures": 43,
-  "total_findings": 6,
-  "new_findings": 0,
+  "total_disclosures": 46,
+  "total_findings": 8,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -358,7 +358,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -390,7 +390,22 @@
           "yeni": false
         }
       ],
-      "improvements": []
+      "improvements": [
+        {
+          "hisse": "PASEU",
+          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+          "tarih": "28.10.2026 16:45",
+          "kategori": "İhaleye Fesat / Yolsuzluk / Adli",
+          "siddet": "İYİLEŞME",
+          "agirlik": 0,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Şirket Ortakları Hakkında Uygulanan Adli Tedbirin Kaldırılması",
+          "gerekce": "olumlu yönlü gelişme ('suc duyurusu' bağlamında kaldırma/çıkarma/lehte sonuç ifadesi)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1689111",
+          "bildirim_no": 1689111,
+          "yeni": false
+        }
+      ]
     },
     {
       "hisse": "PATEK",
@@ -540,14 +555,42 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 21.6,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 3,
+      "skor": 50.8,
+      "not": "D",
+      "seviye": "YÜKSEK",
+      "emoji": "🔴",
+      "renk": "#dc2626",
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "28.10.2026 18:41",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "Fitch Ratings Kredi Derecelendirme Notu",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1689142",
+          "bildirim_no": 1689142,
+          "yeni": true
+        },
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "28.10.2026 18:41",
+          "kategori": "Kredi Notu Kötüleşmesi",
+          "siddet": "KRİTİK",
+          "agirlik": 9,
+          "baslik": "Kredi Derecelendirmesi",
+          "ozet": "Moody's Ratings Kredi Derecelendirme Notu",
+          "gerekce": "olumsuz not aksiyonu tespit edildi (negatif, default)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1689141",
+          "bildirim_no": 1689141,
+          "yeni": true
+        },
         {
           "hisse": "ZOREN",
           "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
