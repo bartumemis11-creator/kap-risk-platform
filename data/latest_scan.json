@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T00:16:23",
+  "generated_at": "2026-10-28T06:03:01",
   "date_start": "2026-10-26",
   "date_end": "2026-10-28",
   "company_count": 35,
   "total_disclosures": 39,
   "total_findings": 6,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -373,7 +373,7 @@
           "gerekce": "'suc duyurusu' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1688616",
           "bildirim_no": 1688616,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "PASEU",
