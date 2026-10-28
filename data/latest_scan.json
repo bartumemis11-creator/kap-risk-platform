@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T20:32:02",
-  "date_start": "2026-10-25",
-  "date_end": "2026-10-27",
+  "generated_at": "2026-10-28T00:16:23",
+  "date_start": "2026-10-26",
+  "date_end": "2026-10-28",
   "company_count": 35,
-  "total_disclosures": 38,
-  "total_findings": 5,
-  "new_findings": 2,
+  "total_disclosures": 39,
+  "total_findings": 6,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -215,7 +215,7 @@
           "gerekce": "'gorevinden ayril' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1688558",
           "bildirim_no": 1688558,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -353,14 +353,28 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 7.2,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 2,
+      "skor": 26.4,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "PASEU",
+          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
+          "tarih": "28.10.2026 01:39",
+          "kategori": "İhaleye Fesat / Yolsuzluk / Adli",
+          "siddet": "YÜKSEK",
+          "agirlik": 8,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Yatırımcılarımızı Bilgilendirme ",
+          "gerekce": "'suc duyurusu' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1688616",
+          "bildirim_no": 1688616,
+          "yeni": true
+        },
         {
           "hisse": "PASEU",
           "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
@@ -373,7 +387,7 @@
           "gerekce": "'tedbir karari' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1688591",
           "bildirim_no": 1688591,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
