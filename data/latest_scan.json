@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-28T23:06:52",
-  "date_start": "2026-10-26",
-  "date_end": "2026-10-28",
+  "generated_at": "2026-10-29T02:39:58",
+  "date_start": "2026-10-27",
+  "date_end": "2026-10-29",
   "company_count": 35,
-  "total_disclosures": 46,
-  "total_findings": 8,
+  "total_disclosures": 31,
+  "total_findings": 6,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -55,7 +55,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -154,29 +154,14 @@
     {
       "hisse": "EREGL",
       "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-      "skor": 21.6,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 2,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "EREGL",
-          "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-          "tarih": "26.10.2026 15:35",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "KREDİ DERECELENDİRME BİLDİRİMİ\\n ",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1687394",
-          "bildirim_no": 1687394,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -254,7 +239,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -293,7 +278,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -332,7 +317,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -428,7 +413,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -441,7 +426,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -449,29 +434,14 @@
     {
       "hisse": "THYAO",
       "sirket": "TÜRK HAVA YOLLARI A.O.",
-      "skor": 21.6,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "THYAO",
-          "sirket": "TÜRK HAVA YOLLARI A.O.",
-          "tarih": "26.10.2026 15:32",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "KREDİ DERECELENDİRME BİLDİRİMİ",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1687389",
-          "bildirim_no": 1687389,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -521,7 +491,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -534,7 +504,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -560,7 +530,7 @@
       "seviye": "YÜKSEK",
       "emoji": "🔴",
       "renk": "#dc2626",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
