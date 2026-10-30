@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-29T21:20:07",
-  "date_start": "2026-10-27",
-  "date_end": "2026-10-29",
+  "generated_at": "2026-10-30T01:16:38",
+  "date_start": "2026-10-28",
+  "date_end": "2026-10-30",
   "company_count": 35,
-  "total_disclosures": 31,
-  "total_findings": 6,
+  "total_disclosures": 8,
+  "total_findings": 3,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -55,7 +55,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -120,7 +120,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -180,29 +180,14 @@
     {
       "hisse": "FENER",
       "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-      "skor": 12.0,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 1,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "FENER",
-          "sirket": "FENERBAHÇE FUTBOL A.Ş.",
-          "tarih": "27.10.2026 20:38",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "ORTA",
-          "agirlik": 5,
-          "baslik": "Teknik Yönetime İlişkin Açıklama",
-          "ozet": "Sayın İsmail Kartal'ın Görevinden Ayrılması Hk.",
-          "gerekce": "'gorevinden ayril' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1688558",
-          "bildirim_no": 1688558,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -239,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -317,7 +302,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -330,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -338,12 +323,12 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 26.4,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 4,
+      "skor": 19.2,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -358,20 +343,6 @@
           "gerekce": "'suc duyurusu' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1688616",
           "bildirim_no": 1688616,
-          "yeni": false
-        },
-        {
-          "hisse": "PASEU",
-          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-          "tarih": "27.10.2026 21:52",
-          "kategori": "Piyasa Tedbirleri",
-          "siddet": "DÜŞÜK",
-          "agirlik": 3,
-          "baslik": "Sermaye Piyasası Kurulu Tedbir Kararı",
-          "ozet": "Sermaye Piyasası Kurulu Tedbir Kararı",
-          "gerekce": "'tedbir karari' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1688591",
-          "bildirim_no": 1688591,
           "yeni": false
         }
       ],
@@ -400,7 +371,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -413,7 +384,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -426,7 +397,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -439,7 +410,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -478,7 +449,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -491,7 +462,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -517,7 +488,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -525,12 +496,12 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 50.8,
-      "not": "D",
-      "seviye": "YÜKSEK",
-      "emoji": "🔴",
-      "renk": "#dc2626",
-      "taranan": 4,
+      "skor": 29.2,
+      "not": "C",
+      "seviye": "ORTA",
+      "emoji": "🟠",
+      "renk": "#ea580c",
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -560,38 +531,9 @@
           "link": "https://www.kap.org.tr/tr/Bildirim/1689141",
           "bildirim_no": 1689141,
           "yeni": false
-        },
-        {
-          "hisse": "ZOREN",
-          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-          "tarih": "27.10.2026 09:19",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Genel Açıklama",
-          "ozet": "Tacirler Portföy Serbest (Döviz) Fon portföyünde yer alan Zorlu Enerji Elektrik Üretim A.Ş. Eurobond?u (XS2926261426) için karşılık ayrılması hk.",
-          "gerekce": "'temerrut' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1687744",
-          "bildirim_no": 1687744,
-          "yeni": false
         }
       ],
-      "improvements": [
-        {
-          "hisse": "ZOREN",
-          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-          "tarih": "27.10.2026 18:50",
-          "kategori": "Regülatör Cezası / Yaptırım",
-          "siddet": "İYİLEŞME",
-          "agirlik": 0,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Tekkehamam II JES Projesi ve İlgili Sözleşmenin Sona Erdirilmesine İlişkin Açıklama",
-          "gerekce": "olumlu yönlü gelişme ('epdk' bağlamında kaldırma/çıkarma/lehte sonuç ifadesi)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1688464",
-          "bildirim_no": 1688464,
-          "yeni": false
-        }
-      ]
+      "improvements": []
     },
     {
       "hisse": "ZOROE",
