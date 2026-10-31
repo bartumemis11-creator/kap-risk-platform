@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-30T23:29:33",
-  "date_start": "2026-10-28",
-  "date_end": "2026-10-30",
+  "generated_at": "2026-10-31T02:41:10",
+  "date_start": "2026-10-29",
+  "date_end": "2026-10-31",
   "company_count": 35,
-  "total_disclosures": 27,
-  "total_findings": 3,
+  "total_disclosures": 19,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -323,45 +323,15 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 19.2,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 2,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "PASEU",
-          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-          "tarih": "28.10.2026 01:39",
-          "kategori": "İhaleye Fesat / Yolsuzluk / Adli",
-          "siddet": "YÜKSEK",
-          "agirlik": 8,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Yatırımcılarımızı Bilgilendirme ",
-          "gerekce": "'suc duyurusu' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1688616",
-          "bildirim_no": 1688616,
-          "yeni": false
-        }
-      ],
-      "improvements": [
-        {
-          "hisse": "PASEU",
-          "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-          "tarih": "28.10.2026 16:45",
-          "kategori": "İhaleye Fesat / Yolsuzluk / Adli",
-          "siddet": "İYİLEŞME",
-          "agirlik": 0,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Şirket Ortakları Hakkında Uygulanan Adli Tedbirin Kaldırılması",
-          "gerekce": "olumlu yönlü gelişme ('suc duyurusu' bağlamında kaldırma/çıkarma/lehte sonuç ifadesi)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1689111",
-          "bildirim_no": 1689111,
-          "yeni": false
-        }
-      ]
+      "findings": [],
+      "improvements": []
     },
     {
       "hisse": "PATEK",
@@ -462,7 +432,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -496,43 +466,14 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 29.2,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 2,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "ZOREN",
-          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-          "tarih": "28.10.2026 18:41",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "Fitch Ratings Kredi Derecelendirme Notu",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1689142",
-          "bildirim_no": 1689142,
-          "yeni": false
-        },
-        {
-          "hisse": "ZOREN",
-          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-          "tarih": "28.10.2026 18:41",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "Moody's Ratings Kredi Derecelendirme Notu",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (negatif, default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1689141",
-          "bildirim_no": 1689141,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
