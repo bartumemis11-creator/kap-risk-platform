@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T15:08:35",
+  "generated_at": "2026-11-04T21:25:55",
   "date_start": "2026-11-02",
   "date_end": "2026-11-04",
   "company_count": 35,
-  "total_disclosures": 67,
+  "total_disclosures": 73,
   "total_findings": 11,
-  "new_findings": 10,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -174,7 +174,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692167",
           "bildirim_no": 1692167,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "EREGL",
@@ -188,7 +188,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692056",
           "bildirim_no": 1692056,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -253,7 +253,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -292,7 +292,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -411,7 +411,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692072",
           "bildirim_no": 1692072,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -439,7 +439,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692139",
           "bildirim_no": 1692139,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "THYAO",
@@ -453,7 +453,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692074",
           "bildirim_no": 1692074,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -481,7 +481,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692136",
           "bildirim_no": 1692136,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "TUPRS",
@@ -495,7 +495,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692060",
           "bildirim_no": 1692060,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -590,7 +590,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692143",
           "bildirim_no": 1692143,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "YKBNK",
@@ -604,7 +604,7 @@
           "gerekce": "'iflas' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692111",
           "bildirim_no": 1692111,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "YKBNK",
@@ -618,7 +618,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692054",
           "bildirim_no": 1692054,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
