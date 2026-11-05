@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T09:01:01",
+  "generated_at": "2026-11-05T17:19:22",
   "date_start": "2026-11-03",
   "date_end": "2026-11-05",
   "company_count": 35,
-  "total_disclosures": 57,
+  "total_disclosures": 67,
   "total_findings": 13,
-  "new_findings": 2,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -120,7 +120,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -292,7 +292,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -411,7 +411,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692953",
           "bildirim_no": 1692953,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "SASA",
@@ -425,7 +425,7 @@
           "gerekce": "'temerrut' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1692943",
           "bildirim_no": 1692943,
-          "yeni": true
+          "yeni": false
         },
         {
           "hisse": "SASA",
@@ -562,7 +562,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -659,7 +659,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 9,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
