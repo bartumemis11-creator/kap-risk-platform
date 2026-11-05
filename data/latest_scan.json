@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T01:41:12",
+  "generated_at": "2026-11-05T09:01:01",
   "date_start": "2026-11-03",
   "date_end": "2026-11-05",
   "company_count": 35,
-  "total_disclosures": 53,
-  "total_findings": 11,
-  "new_findings": 0,
+  "total_disclosures": 57,
+  "total_findings": 13,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -391,14 +391,42 @@
     {
       "hisse": "SASA",
       "sirket": "SASA POLYESTER SANAYİ A.Ş.",
-      "skor": 24.0,
+      "skor": 40.8,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 2,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
+        {
+          "hisse": "SASA",
+          "sirket": "SASA POLYESTER SANAYİ A.Ş.",
+          "tarih": "05.11.2026 10:20",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "Temerrüt İşleminin Tamamlanması",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1692953",
+          "bildirim_no": 1692953,
+          "yeni": true
+        },
+        {
+          "hisse": "SASA",
+          "sirket": "SASA POLYESTER SANAYİ A.Ş.",
+          "tarih": "05.11.2026 10:02",
+          "kategori": "Temerrüt / Ödeme Performansı",
+          "siddet": "KRİTİK",
+          "agirlik": 10,
+          "baslik": "Temerrüt İşlemi",
+          "ozet": "İşleme Açılan Temerrüt Sırası",
+          "gerekce": "'temerrut' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1692943",
+          "bildirim_no": 1692943,
+          "yeni": true
+        },
         {
           "hisse": "SASA",
           "sirket": "SASA POLYESTER SANAYİ A.Ş.",
@@ -534,7 +562,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -547,7 +575,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
