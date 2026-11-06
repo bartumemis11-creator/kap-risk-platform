@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T18:15:44",
+  "generated_at": "2026-11-06T23:25:10",
   "date_start": "2026-11-04",
   "date_end": "2026-11-06",
   "company_count": 35,
   "total_disclosures": 76,
   "total_findings": 13,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -268,7 +268,7 @@
           "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1694460",
           "bildirim_no": 1694460,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
