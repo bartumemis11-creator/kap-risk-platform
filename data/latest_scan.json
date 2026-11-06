@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-05T22:47:18",
-  "date_start": "2026-11-03",
-  "date_end": "2026-11-05",
+  "generated_at": "2026-11-06T03:13:28",
+  "date_start": "2026-11-04",
+  "date_end": "2026-11-06",
   "company_count": 35,
-  "total_disclosures": 68,
-  "total_findings": 13,
+  "total_disclosures": 42,
+  "total_findings": 12,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -55,7 +55,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -120,7 +120,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 4,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -214,7 +214,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -253,7 +253,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -292,7 +292,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -344,7 +344,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -357,7 +357,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -370,7 +370,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -396,7 +396,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 4,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -452,7 +452,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 7,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -494,7 +494,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -562,7 +562,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -570,29 +570,14 @@
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "VESTL",
-          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-          "tarih": "03.11.2026 00:20",
-          "kategori": "Varlık Satışı / Nakit Yaratma",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Finansal Duran Varlık Satışı",
-          "ozet": "Finansal Duran Varlık Satışı Hk.",
-          "gerekce": "'duran varlik satis' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1691269",
-          "bildirim_no": 1691269,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -603,7 +588,7 @@
       "seviye": "YÜKSEK",
       "emoji": "🔴",
       "renk": "#dc2626",
-      "taranan": 11,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -659,7 +644,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 9,
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
