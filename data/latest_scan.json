@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T11:21:09",
+  "generated_at": "2026-11-06T18:15:44",
   "date_start": "2026-11-04",
   "date_end": "2026-11-06",
   "company_count": 35,
-  "total_disclosures": 53,
-  "total_findings": 12,
-  "new_findings": 0,
+  "total_disclosures": 76,
+  "total_findings": 13,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -248,14 +248,29 @@
     {
       "hisse": "KLYPV",
       "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 2,
+      "skor": 9.6,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 5,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "KLYPV",
+          "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
+          "tarih": "06.11.2026 21:13",
+          "kategori": "Yönetim / Genel Kurul Riski",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Üst Yönetim Değişikliği",
+          "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1694460",
+          "bildirim_no": 1694460,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -357,7 +372,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 7,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -494,7 +509,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 2,
+      "taranan": 7,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -575,7 +590,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 6,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -644,7 +659,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 10,
+      "taranan": 11,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
