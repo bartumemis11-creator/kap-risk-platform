@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-06T23:25:10",
-  "date_start": "2026-11-04",
-  "date_end": "2026-11-06",
+  "generated_at": "2026-11-07T03:02:38",
+  "date_start": "2026-11-05",
+  "date_end": "2026-11-07",
   "company_count": 35,
-  "total_disclosures": 76,
-  "total_findings": 13,
+  "total_disclosures": 52,
+  "total_findings": 3,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -42,7 +42,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -154,43 +154,14 @@
     {
       "hisse": "EREGL",
       "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-      "skor": 32.4,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 4,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "EREGL",
-          "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-          "tarih": "04.11.2026 13:51",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "Temerrüt İşleminin Tamamlanması",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692167",
-          "bildirim_no": 1692167,
-          "yeni": false
-        },
-        {
-          "hisse": "EREGL",
-          "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
-          "tarih": "04.11.2026 10:31",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692056",
-          "bildirim_no": 1692056,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -253,7 +224,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 5,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -307,7 +278,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -406,12 +377,12 @@
     {
       "hisse": "SASA",
       "sirket": "SASA POLYESTER SANAYİ A.Ş.",
-      "skor": 40.8,
+      "skor": 32.4,
       "not": "C",
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 6,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -441,20 +412,6 @@
           "link": "https://www.kap.org.tr/tr/Bildirim/1692943",
           "bildirim_no": 1692943,
           "yeni": false
-        },
-        {
-          "hisse": "SASA",
-          "sirket": "SASA POLYESTER SANAYİ A.Ş.",
-          "tarih": "04.11.2026 10:38",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692072",
-          "bildirim_no": 1692072,
-          "yeni": false
         }
       ],
       "improvements": []
@@ -462,85 +419,27 @@
     {
       "hisse": "THYAO",
       "sirket": "TÜRK HAVA YOLLARI A.O.",
-      "skor": 32.4,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 6,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "THYAO",
-          "sirket": "TÜRK HAVA YOLLARI A.O.",
-          "tarih": "04.11.2026 12:46",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "Temerrüt İşleminin Tamamlanması",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692139",
-          "bildirim_no": 1692139,
-          "yeni": false
-        },
-        {
-          "hisse": "THYAO",
-          "sirket": "TÜRK HAVA YOLLARI A.O.",
-          "tarih": "04.11.2026 10:39",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692074",
-          "bildirim_no": 1692074,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
       "hisse": "TUPRS",
       "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-      "skor": 32.4,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 7,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 5,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "TUPRS",
-          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-          "tarih": "04.11.2026 12:43",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "Temerrüt İşleminin Tamamlanması",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692136",
-          "bildirim_no": 1692136,
-          "yeni": false
-        },
-        {
-          "hisse": "TUPRS",
-          "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
-          "tarih": "04.11.2026 10:33",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692060",
-          "bildirim_no": 1692060,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -598,57 +497,14 @@
     {
       "hisse": "YKBNK",
       "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-      "skor": 54.0,
-      "not": "D",
-      "seviye": "YÜKSEK",
-      "emoji": "🔴",
-      "renk": "#dc2626",
-      "taranan": 5,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "YKBNK",
-          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-          "tarih": "04.11.2026 12:49",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "Temerrüt İşleminin Tamamlanması",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692143",
-          "bildirim_no": 1692143,
-          "yeni": false
-        },
-        {
-          "hisse": "YKBNK",
-          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-          "tarih": "04.11.2026 12:14",
-          "kategori": "İflas / Tasfiye / Konkordato",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "SPK'nın 21.12.2005 ve 22.12.2005 tarihli yazıları çerçevesinde her mali tablo döneminde yapılması gereken açıklama",
-          "gerekce": "'iflas' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692111",
-          "bildirim_no": 1692111,
-          "yeni": false
-        },
-        {
-          "hisse": "YKBNK",
-          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-          "tarih": "04.11.2026 10:30",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692054",
-          "bildirim_no": 1692054,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -659,7 +515,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 11,
+      "taranan": 9,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
