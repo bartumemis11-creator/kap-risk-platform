@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-07T20:41:37",
-  "date_start": "2026-11-05",
-  "date_end": "2026-11-07",
+  "generated_at": "2026-11-08T00:14:09",
+  "date_start": "2026-11-06",
+  "date_end": "2026-11-08",
   "company_count": 35,
-  "total_disclosures": 52,
-  "total_findings": 3,
+  "total_disclosures": 34,
+  "total_findings": 1,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -68,7 +68,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -120,7 +120,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -224,7 +224,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 4,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -278,7 +278,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -377,43 +377,14 @@
     {
       "hisse": "SASA",
       "sirket": "SASA POLYESTER SANAYİ A.Ş.",
-      "skor": 32.4,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 5,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 3,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "SASA",
-          "sirket": "SASA POLYESTER SANAYİ A.Ş.",
-          "tarih": "05.11.2026 10:20",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "Temerrüt İşleminin Tamamlanması",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692953",
-          "bildirim_no": 1692953,
-          "yeni": false
-        },
-        {
-          "hisse": "SASA",
-          "sirket": "SASA POLYESTER SANAYİ A.Ş.",
-          "tarih": "05.11.2026 10:02",
-          "kategori": "Temerrüt / Ödeme Performansı",
-          "siddet": "KRİTİK",
-          "agirlik": 10,
-          "baslik": "Temerrüt İşlemi",
-          "ozet": "İşleme Açılan Temerrüt Sırası",
-          "gerekce": "'temerrut' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1692943",
-          "bildirim_no": 1692943,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -476,7 +447,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -489,7 +460,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -515,7 +486,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 9,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
