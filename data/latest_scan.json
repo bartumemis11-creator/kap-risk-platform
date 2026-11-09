@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-08T22:41:17",
-  "date_start": "2026-11-06",
-  "date_end": "2026-11-08",
+  "generated_at": "2026-11-09T02:24:18",
+  "date_start": "2026-11-07",
+  "date_end": "2026-11-09",
   "company_count": 35,
-  "total_disclosures": 34,
-  "total_findings": 1,
+  "total_disclosures": 0,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -94,7 +94,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -159,7 +159,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -219,29 +219,14 @@
     {
       "hisse": "KLYPV",
       "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "KLYPV",
-          "sirket": "KALYON GÜNEŞ TEKNOLOJİLERİ ÜRETİM A.Ş.",
-          "tarih": "06.11.2026 21:13",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği",
-          "gerekce": "'gorevinden ayril' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1694460",
-          "bildirim_no": 1694460,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -330,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -343,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 7,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -356,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -369,7 +354,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -382,7 +367,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -408,7 +393,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -460,7 +445,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -486,7 +471,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
