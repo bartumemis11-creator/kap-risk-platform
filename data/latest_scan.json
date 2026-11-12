@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T18:43:00",
+  "generated_at": "2026-11-12T23:59:26",
   "date_start": "2026-11-10",
   "date_end": "2026-11-12",
   "company_count": 35,
   "total_disclosures": 28,
   "total_findings": 3,
-  "new_findings": 3,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -447,7 +447,7 @@
           "gerekce": "'ust yonetim degisikli' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1697749",
           "bildirim_no": 1697749,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -475,7 +475,7 @@
           "gerekce": "'ust yonetim degisikli' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1697747",
           "bildirim_no": 1697747,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -516,7 +516,7 @@
           "gerekce": "'ust yonetim degisikli' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1697793",
           "bildirim_no": 1697793,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
