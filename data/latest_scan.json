@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T14:49:10",
+  "generated_at": "2026-11-13T21:12:55",
   "date_start": "2026-11-11",
   "date_end": "2026-11-13",
   "company_count": 35,
-  "total_disclosures": 24,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 28,
+  "total_findings": 4,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -193,14 +193,29 @@
     {
       "hisse": "GSRAY",
       "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 0,
+      "skor": 12.0,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "GSRAY",
+          "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
+          "tarih": "13.11.2026 17:54",
+          "kategori": "Yönetim / Genel Kurul Riski",
+          "siddet": "ORTA",
+          "agirlik": 5,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Yönetim Kurulu İstifası Hakkında",
+          "gerekce": "'istifa' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1698097",
+          "bildirim_no": 1698097,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
@@ -367,7 +382,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -501,7 +516,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [
         {
