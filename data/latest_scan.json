@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-14T20:27:37",
-  "date_start": "2026-11-12",
-  "date_end": "2026-11-14",
+  "generated_at": "2026-11-15T00:06:57",
+  "date_start": "2026-11-13",
+  "date_end": "2026-11-15",
   "company_count": 35,
-  "total_disclosures": 16,
-  "total_findings": 4,
+  "total_disclosures": 10,
+  "total_findings": 1,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -442,57 +442,27 @@
     {
       "hisse": "VESBE",
       "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-      "skor": 12.0,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "VESBE",
-          "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
-          "tarih": "12.11.2026 18:18",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "ORTA",
-          "agirlik": 5,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği Hakkında",
-          "gerekce": "'ust yonetim degisikli' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1697749",
-          "bildirim_no": 1697749,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
       "hisse": "VESTL",
       "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-      "skor": 12.0,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "VESTL",
-          "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
-          "tarih": "12.11.2026 18:18",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "ORTA",
-          "agirlik": 5,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği Hakkında",
-          "gerekce": "'ust yonetim degisikli' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1697747",
-          "bildirim_no": 1697747,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -511,29 +481,14 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 12.0,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 1,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "ZOREN",
-          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-          "tarih": "12.11.2026 19:33",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "ORTA",
-          "agirlik": 5,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği Hakkında",
-          "gerekce": "'ust yonetim degisikli' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1697793",
-          "bildirim_no": 1697793,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
