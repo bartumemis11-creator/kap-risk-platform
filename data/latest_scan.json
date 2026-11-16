@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-15T20:10:40",
-  "date_start": "2026-11-13",
-  "date_end": "2026-11-15",
+  "generated_at": "2026-11-16T00:11:05",
+  "date_start": "2026-11-14",
+  "date_end": "2026-11-16",
   "company_count": 35,
-  "total_disclosures": 10,
-  "total_findings": 1,
+  "total_disclosures": 1,
+  "total_findings": 0,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -193,29 +193,14 @@
     {
       "hisse": "GSRAY",
       "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
-      "skor": 12.0,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 1,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "GSRAY",
-          "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
-          "tarih": "13.11.2026 17:54",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "ORTA",
-          "agirlik": 5,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Yönetim Kurulu İstifası Hakkında",
-          "gerekce": "'istifa' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1698097",
-          "bildirim_no": 1698097,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -343,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -382,7 +367,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -395,7 +380,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -447,7 +432,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -460,7 +445,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -473,7 +458,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -486,7 +471,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 0,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
