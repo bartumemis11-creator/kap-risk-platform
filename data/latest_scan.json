@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T17:16:56",
-  "date_start": "2026-11-14",
-  "date_end": "2026-11-16",
+  "generated_at": "2026-11-17T00:58:04",
+  "date_start": "2026-11-15",
+  "date_end": "2026-11-17",
   "company_count": 35,
   "total_disclosures": 7,
   "total_findings": 2,
-  "new_findings": 2,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -213,7 +213,7 @@
           "gerekce": "'istifa' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1698567",
           "bildirim_no": 1698567,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -501,7 +501,7 @@
           "gerekce": "'istifa' ifadesi (bildirim tam metni)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1698565",
           "bildirim_no": 1698565,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
