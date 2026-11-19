@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-18T23:56:22",
-  "date_start": "2026-11-16",
-  "date_end": "2026-11-18",
+  "generated_at": "2026-11-19T06:04:49",
+  "date_start": "2026-11-17",
+  "date_end": "2026-11-19",
   "company_count": 35,
-  "total_disclosures": 46,
-  "total_findings": 3,
+  "total_disclosures": 43,
+  "total_findings": 1,
   "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
@@ -193,29 +193,14 @@
     {
       "hisse": "GSRAY",
       "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
-      "skor": 12.0,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 2,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "GSRAY",
-          "sirket": "GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.",
-          "tarih": "16.11.2026 18:02",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "ORTA",
-          "agirlik": 5,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Yönetim Kurulu İstifası Hakkında",
-          "gerekce": "'istifa' ifadesi (başlık/özet)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1698567",
-          "bildirim_no": 1698567,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
@@ -239,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -330,7 +315,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -343,7 +328,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -356,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -369,7 +354,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -488,7 +473,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 6,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -496,29 +481,14 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 9.6,
-      "not": "B",
-      "seviye": "DÜŞÜK",
-      "emoji": "🟡",
-      "renk": "#ca8a04",
-      "taranan": 4,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 2,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "ZOREN",
-          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-          "tarih": "16.11.2026 18:00",
-          "kategori": "Yönetim / Genel Kurul Riski",
-          "siddet": "DÜŞÜK",
-          "agirlik": 4,
-          "baslik": "Özel Durum Açıklaması (Genel)",
-          "ozet": "Üst Yönetim Değişikliği Hakkında\\n",
-          "gerekce": "'istifa' ifadesi (bildirim tam metni)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1698565",
-          "bildirim_no": 1698565,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
