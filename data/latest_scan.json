@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-23T14:12:43",
-  "date_start": "2026-11-21",
-  "date_end": "2026-11-23",
+  "generated_at": "2026-11-24T01:48:39",
+  "date_start": "2026-11-22",
+  "date_end": "2026-11-24",
   "company_count": 35,
-  "total_disclosures": 16,
-  "total_findings": 0,
-  "new_findings": 0,
+  "total_disclosures": 25,
+  "total_findings": 2,
+  "new_findings": 2,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -211,7 +211,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -224,7 +224,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 0,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -453,27 +453,57 @@
     {
       "hisse": "YKBNK",
       "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 1,
+      "skor": 9.6,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 5,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "YKBNK",
+          "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+          "tarih": "23.11.2026 18:20",
+          "kategori": "Önemli Dava / Tahkim",
+          "siddet": "DÜŞÜK",
+          "agirlik": 4,
+          "baslik": "Ortaklık Aleyhine Dava Açılması veya Davaya İlişkin Gelişmeler",
+          "ozet": "Genel kurul kararı aleyhine açılan dava hk.",
+          "gerekce": "'dava acil' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1701489",
+          "bildirim_no": 1701489,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 0.0,
-      "not": "A",
-      "seviye": "TEMİZ",
-      "emoji": "🟢",
-      "renk": "#16a34a",
-      "taranan": 4,
+      "skor": 16.8,
+      "not": "B",
+      "seviye": "DÜŞÜK",
+      "emoji": "🟡",
+      "renk": "#ca8a04",
+      "taranan": 7,
       "veri_hatasi": 0,
-      "findings": [],
+      "findings": [
+        {
+          "hisse": "ZOREN",
+          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+          "tarih": "23.11.2026 19:58",
+          "kategori": "Regülatör Cezası / Yaptırım",
+          "siddet": "YÜKSEK",
+          "agirlik": 7,
+          "baslik": "Özel Durum Açıklaması (Genel)",
+          "ozet": "Alaşehir JES Projesine İlişkin Üretim Lisansı Tadil Başvurusunun EPDK Tarafından Uygun Bulunması",
+          "gerekce": "'epdk' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1701570",
+          "bildirim_no": 1701570,
+          "yeni": true
+        }
+      ],
       "improvements": []
     },
     {
