@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T01:48:39",
+  "generated_at": "2026-11-24T12:02:56",
   "date_start": "2026-11-22",
   "date_end": "2026-11-24",
   "company_count": 35,
-  "total_disclosures": 25,
+  "total_disclosures": 32,
   "total_findings": 2,
-  "new_findings": 2,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -211,7 +211,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 3,
+      "taranan": 4,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -289,7 +289,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -341,7 +341,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -354,7 +354,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -445,7 +445,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 1,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -473,7 +473,7 @@
           "gerekce": "'dava acil' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1701489",
           "bildirim_no": 1701489,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
@@ -486,7 +486,7 @@
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 7,
+      "taranan": 8,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -501,7 +501,7 @@
           "gerekce": "'epdk' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1701570",
           "bildirim_no": 1701570,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
