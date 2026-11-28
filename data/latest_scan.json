@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-28T02:54:10",
+  "generated_at": "2026-11-28T11:24:52",
   "date_start": "2026-11-26",
   "date_end": "2026-11-28",
   "company_count": 35,
   "total_disclosures": 31,
   "total_findings": 2,
-  "new_findings": 1,
+  "new_findings": 0,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -358,7 +358,7 @@
           "gerekce": "'tedbir karari' ifadesi (başlık/özet)",
           "link": "https://www.kap.org.tr/tr/Bildirim/1703474",
           "bildirim_no": 1703474,
-          "yeni": true
+          "yeni": false
         }
       ],
       "improvements": []
