@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-27T20:10:32",
-  "date_start": "2026-11-25",
-  "date_end": "2026-11-27",
+  "generated_at": "2026-11-28T02:54:10",
+  "date_start": "2026-11-26",
+  "date_end": "2026-11-28",
   "company_count": 35,
-  "total_disclosures": 46,
-  "total_findings": 3,
-  "new_findings": 0,
+  "total_disclosures": 31,
+  "total_findings": 2,
+  "new_findings": 1,
   "unmatched_groups": [
     "EKOPARK",
     "ROKETSAN",
@@ -68,7 +68,7 @@
       "seviye": "ORTA",
       "emoji": "🟠",
       "renk": "#ea580c",
-      "taranan": 3,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [
         {
@@ -187,7 +187,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 3,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -226,7 +226,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -239,7 +239,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 4,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -304,7 +304,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -338,27 +338,27 @@
     {
       "hisse": "PASEU",
       "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-      "skor": 4.8,
+      "skor": 7.2,
       "not": "B",
       "seviye": "DÜŞÜK",
       "emoji": "🟡",
       "renk": "#ca8a04",
-      "taranan": 7,
+      "taranan": 5,
       "veri_hatasi": 0,
       "findings": [
         {
           "hisse": "PASEU",
           "sirket": "PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.",
-          "tarih": "25.11.2026 18:37",
+          "tarih": "28.11.2026 00:32",
           "kategori": "Piyasa Tedbirleri",
           "siddet": "DÜŞÜK",
-          "agirlik": 2,
-          "baslik": "BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
-          "ozet": "Pay Piyasasında Volatilite Bazlı Tedbir Sistemi",
-          "gerekce": "'volatilite bazli tedbir' ifadesi (başlık/özet) — BIST/SPK piyasa duyurusu",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1702711",
-          "bildirim_no": 1702711,
-          "yeni": false
+          "agirlik": 3,
+          "baslik": "Sermaye Piyasası Kurulu Tedbir Kararı",
+          "ozet": "Sermaye Piyasası Kurulu Tedbir Kararı",
+          "gerekce": "'tedbir karari' ifadesi (başlık/özet)",
+          "link": "https://www.kap.org.tr/tr/Bildirim/1703474",
+          "bildirim_no": 1703474,
+          "yeni": true
         }
       ],
       "improvements": []
@@ -410,7 +410,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 2,
+      "taranan": 1,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -488,7 +488,7 @@
       "seviye": "TEMİZ",
       "emoji": "🟢",
       "renk": "#16a34a",
-      "taranan": 5,
+      "taranan": 2,
       "veri_hatasi": 0,
       "findings": [],
       "improvements": []
@@ -496,29 +496,14 @@
     {
       "hisse": "ZOREN",
       "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-      "skor": 21.6,
-      "not": "C",
-      "seviye": "ORTA",
-      "emoji": "🟠",
-      "renk": "#ea580c",
-      "taranan": 3,
+      "skor": 0.0,
+      "not": "A",
+      "seviye": "TEMİZ",
+      "emoji": "🟢",
+      "renk": "#16a34a",
+      "taranan": 0,
       "veri_hatasi": 0,
-      "findings": [
-        {
-          "hisse": "ZOREN",
-          "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
-          "tarih": "25.11.2026 19:01",
-          "kategori": "Kredi Notu Kötüleşmesi",
-          "siddet": "KRİTİK",
-          "agirlik": 9,
-          "baslik": "Kredi Derecelendirmesi",
-          "ozet": "Moody's Ratings Kredi Derecelendirme Notu\\n",
-          "gerekce": "olumsuz not aksiyonu tespit edildi (default)",
-          "link": "https://www.kap.org.tr/tr/Bildirim/1702723",
-          "bildirim_no": 1702723,
-          "yeni": false
-        }
-      ],
+      "findings": [],
       "improvements": []
     },
     {
